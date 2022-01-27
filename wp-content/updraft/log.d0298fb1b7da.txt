@@ -1,0 +1,463 @@
+0000.001 (0) Opened log file at time: Sun, 19 Apr 2020 07:10:50 +0000 on http://funbahasa.com
+0000.003 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.22 WP: 5.3.2 PHP: 7.1.32 (litespeed, Linux luna.jagoanhosting.com 3.10.0-962.3.2.lve1.5.24.10.el7.x86_64 #1 SMP Wed Mar 20 07:36:02 EDT 2019 x86_64) MySQL: 10.1.41-MariaDB-cll-lve WPLANG: en_US Server: LiteSpeed safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 97.8M | 100M) multisite: N openssl: OpenSSL 1.0.2k  26 Jan 2017 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.003 (0) Free space on disk containing Updraft's temporary directory: 91426.9 MB
+0000.005 (0) Tasks: Backup files:  (schedule: weekly) Backup DB: 1 (schedule: daily)
+0000.005 (0) Processed schedules. Tasks now: Backup files:  Backup DB: 1
+0000.014 (0) Requesting semaphore lock (d) (apparently via scheduler: last_scheduled_action_called_at=1587194143, seconds_ago=86107)
+0000.015 (0) Set semaphore last lock (d) time to 2020-04-19 07:10:50
+0000.015 (0) Semaphore lock (d) complete
+0000.018 (0) Backup run: resumption=0, nonce=d0298fb1b7da, file_nonce=d0298fb1b7da begun at=1587280250 (0s ago), job type=backup
+0000.019 (0) Scheduling a resumption (1) after 300 seconds (1587280550) in case this run gets aborted
+0000.029 (0) This backup run is not intended for files - skipping
+0000.030 (0) Beginning creation of database dump (WordPress DB)
+0000.060 (0) Table wpnc_options: Total expected rows (approximate): 743
+0000.100 (0) Table wpnc_options: Total rows added: 739 in 0.04 seconds
+0000.101 (0) Table wpnc_options: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_options.table.gz - 203.4 KB)
+0000.103 (0) Table wpnc_users: Total expected rows (approximate): 2
+0000.105 (0) Table wpnc_users: Total rows added: 2 in 0.00 seconds
+0000.106 (0) Table wpnc_users: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_users.table.gz - 0.7 KB)
+0000.108 (0) Table wpnc_usermeta: Total expected rows (approximate): 79
+0000.111 (0) Table wpnc_usermeta: Total rows added: 79 in 0.00 seconds
+0000.112 (0) Table wpnc_usermeta: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_usermeta.table.gz - 7.2 KB)
+0000.115 (0) Table wpnc_actionscheduler_actions: Total expected rows (approximate): 674
+0000.126 (0) Table wpnc_actionscheduler_actions: Total rows added: 674 in 0.01 seconds
+0000.127 (0) Table wpnc_actionscheduler_actions: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_actionscheduler_actions.table.gz - 20.5 KB)
+0000.129 (0) Table wpnc_actionscheduler_claims: Total expected rows (approximate): 0
+0000.130 (0) Table wpnc_actionscheduler_claims: Total rows added: 0 in 0.00 seconds
+0000.130 (0) Table wpnc_actionscheduler_claims: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_actionscheduler_claims.table.gz - 0.4 KB)
+0000.132 (0) Table wpnc_actionscheduler_groups: Total expected rows (approximate): 5
+0000.133 (0) Table wpnc_actionscheduler_groups: Total rows added: 5 in 0.00 seconds
+0000.133 (0) Table wpnc_actionscheduler_groups: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_actionscheduler_groups.table.gz - 0.4 KB)
+0000.137 (0) Table wpnc_actionscheduler_logs: Total expected rows (approximate): 2019
+0000.150 (0) Table wpnc_actionscheduler_logs: Total rows added: 2019 in 0.01 seconds
+0000.151 (0) Table wpnc_actionscheduler_logs: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_actionscheduler_logs.table.gz - 17.7 KB)
+0000.156 (0) Table wpnc_commentmeta: Total expected rows (approximate): 9
+0000.158 (0) Table wpnc_commentmeta: Total rows added: 9 in 0.00 seconds
+0000.158 (0) Table wpnc_commentmeta: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_commentmeta.table.gz - 0.6 KB)
+0000.161 (0) Table wpnc_comments: Total expected rows (approximate): 6
+0000.162 (0) Table wpnc_comments: Total rows added: 6 in 0.00 seconds
+0000.163 (0) Table wpnc_comments: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_comments.table.gz - 0.9 KB)
+0000.166 (0) Table wpnc_links: Total expected rows (approximate): 0
+0000.168 (0) Table wpnc_links: Total rows added: 0 in 0.00 seconds
+0000.168 (0) Table wpnc_links: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_links.table.gz - 0.4 KB)
+0000.171 (0) Table wpnc_postmeta: Total expected rows (approximate): 5233
+0000.423 (0) Table wpnc_postmeta: Total rows added: 5233 in 0.25 seconds
+0000.424 (0) Table wpnc_postmeta: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_postmeta.table.gz - 817.3 KB)
+0000.426 (0) Table wpnc_posts: Total expected rows (approximate): 834
+0000.503 (0) Table wpnc_posts: Total rows added: 834 in 0.08 seconds
+0000.504 (0) Table wpnc_posts: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_posts.table.gz - 241.7 KB)
+0000.507 (0) Table wpnc_term_relationships: Total expected rows (approximate): 174
+0000.510 (0) Table wpnc_term_relationships: Total rows added: 174 in 0.00 seconds
+0000.511 (0) Table wpnc_term_relationships: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_term_relationships.table.gz - 0.9 KB)
+0000.513 (0) Table wpnc_term_taxonomy: Total expected rows (approximate): 33
+0000.515 (0) Table wpnc_term_taxonomy: Total rows added: 33 in 0.00 seconds
+0000.515 (0) Table wpnc_term_taxonomy: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_term_taxonomy.table.gz - 0.7 KB)
+0000.518 (0) Table wpnc_termmeta: Total expected rows (approximate): 6
+0000.519 (0) Table wpnc_termmeta: Total rows added: 6 in 0.00 seconds
+0000.520 (0) Table wpnc_termmeta: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_termmeta.table.gz - 0.4 KB)
+0000.521 (0) Table wpnc_terms: Total expected rows (approximate): 33
+0000.523 (0) Table wpnc_terms: Total rows added: 33 in 0.00 seconds
+0000.523 (0) Table wpnc_terms: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_terms.table.gz - 0.8 KB)
+0000.526 (0) Table wpnc_wc_category_lookup: Total expected rows (approximate): 1
+0000.528 (0) Table wpnc_wc_category_lookup: Total rows added: 1 in 0.00 seconds
+0000.528 (0) Table wpnc_wc_category_lookup: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wc_category_lookup.table.gz - 0.3 KB)
+0000.532 (0) Table wpnc_wc_product_meta_lookup: Total expected rows (approximate): 0
+0000.534 (0) Table wpnc_wc_product_meta_lookup: Total rows added: 0 in 0.00 seconds
+0000.534 (0) Table wpnc_wc_product_meta_lookup: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wc_product_meta_lookup.table.gz - 0.5 KB)
+0000.538 (0) Table wpnc_wc_tax_rate_classes: Total expected rows (approximate): 2
+0000.539 (0) Table wpnc_wc_tax_rate_classes: Total rows added: 2 in 0.00 seconds
+0000.540 (0) Table wpnc_wc_tax_rate_classes: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wc_tax_rate_classes.table.gz - 0.4 KB)
+0000.543 (0) Table wpnc_woocommerce_order_itemmeta: Total expected rows (approximate): 0
+0000.545 (0) Table wpnc_woocommerce_order_itemmeta: Total rows added: 0 in 0.00 seconds
+0000.545 (0) Table wpnc_woocommerce_order_itemmeta: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_woocommerce_order_itemmeta.table.gz - 0.4 KB)
+0000.549 (0) Table wpnc_woocommerce_payment_tokenmeta: Total expected rows (approximate): 0
+0000.551 (0) Table wpnc_woocommerce_payment_tokenmeta: Total rows added: 0 in 0.00 seconds
+0000.552 (0) Table wpnc_woocommerce_payment_tokenmeta: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_woocommerce_payment_tokenmeta.table.gz - 0.4 KB)
+0000.555 (0) Table wpnc_yoast_seo_links: Total expected rows (approximate): 120
+0000.557 (0) Table wpnc_yoast_seo_links: Total rows added: 120 in 0.00 seconds
+0000.558 (0) Table wpnc_yoast_seo_links: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_yoast_seo_links.table.gz - 1.3 KB)
+0000.563 (0) Table wpnc_yoast_seo_meta: Total expected rows (approximate): 344
+0000.565 (0) Table wpnc_yoast_seo_meta: Total rows added: 344 in 0.00 seconds
+0000.566 (0) Table wpnc_yoast_seo_meta: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_yoast_seo_meta.table.gz - 1.2 KB)
+0000.571 (0) Table wpnc_content_tabs_ultimate_import: Total expected rows (approximate): 5
+0000.573 (0) Table wpnc_content_tabs_ultimate_import: Total rows added: 5 in 0.00 seconds
+0000.573 (0) Table wpnc_content_tabs_ultimate_import: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_content_tabs_ultimate_import.table.gz - 0.4 KB)
+0000.576 (0) Table wpnc_content_tabs_ultimate_list: Total expected rows (approximate): 0
+0000.578 (0) Table wpnc_content_tabs_ultimate_list: Total rows added: 0 in 0.00 seconds
+0000.578 (0) Table wpnc_content_tabs_ultimate_list: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_content_tabs_ultimate_list.table.gz - 0.3 KB)
+0000.581 (0) Table wpnc_content_tabs_ultimate_style: Total expected rows (approximate): 0
+0000.583 (0) Table wpnc_content_tabs_ultimate_style: Total rows added: 0 in 0.00 seconds
+0000.583 (0) Table wpnc_content_tabs_ultimate_style: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_content_tabs_ultimate_style.table.gz - 0.3 KB)
+0000.588 (0) Table wpnc_image_hover_ultimate_list: Total expected rows (approximate): 0
+0000.589 (0) Table wpnc_image_hover_ultimate_list: Total rows added: 0 in 0.00 seconds
+0000.589 (0) Table wpnc_image_hover_ultimate_list: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_image_hover_ultimate_list.table.gz - 0.3 KB)
+0000.594 (0) Table wpnc_image_hover_ultimate_style: Total expected rows (approximate): 0
+0000.595 (0) Table wpnc_image_hover_ultimate_style: Total rows added: 0 in 0.00 seconds
+0000.596 (0) Table wpnc_image_hover_ultimate_style: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_image_hover_ultimate_style.table.gz - 0.4 KB)
+0000.600 (0) Table wpnc_mailchimp_carts: Total expected rows (approximate): 0
+0000.601 (0) Table wpnc_mailchimp_carts: Total rows added: 0 in 0.00 seconds
+0000.601 (0) Table wpnc_mailchimp_carts: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_mailchimp_carts.table.gz - 0.3 KB)
+0000.603 (0) Table wpnc_mailchimp_jobs: Total expected rows (approximate): 0
+0000.604 (0) Table wpnc_mailchimp_jobs: Total rows added: 0 in 0.00 seconds
+0000.605 (0) Table wpnc_mailchimp_jobs: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_mailchimp_jobs.table.gz - 0.3 KB)
+0000.608 (0) Table wpnc_nf3_action_meta: Total expected rows (approximate): 90
+0000.610 (0) Table wpnc_nf3_action_meta: Total rows added: 90 in 0.00 seconds
+0000.611 (0) Table wpnc_nf3_action_meta: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_nf3_action_meta.table.gz - 1.7 KB)
+0000.615 (0) Table wpnc_nf3_actions: Total expected rows (approximate): 4
+0000.617 (0) Table wpnc_nf3_actions: Total rows added: 4 in 0.00 seconds
+0000.617 (0) Table wpnc_nf3_actions: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_nf3_actions.table.gz - 0.5 KB)
+0000.622 (0) Table wpnc_nf3_chunks: Total expected rows (approximate): 0
+0000.625 (0) Table wpnc_nf3_chunks: Total rows added: 0 in 0.00 seconds
+0000.625 (0) Table wpnc_nf3_chunks: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_nf3_chunks.table.gz - 0.3 KB)
+0000.635 (0) Table wpnc_nf3_field_meta: Total expected rows (approximate): 275
+0000.640 (0) Table wpnc_nf3_field_meta: Total rows added: 275 in 0.00 seconds
+0000.641 (0) Table wpnc_nf3_field_meta: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_nf3_field_meta.table.gz - 2.7 KB)
+0000.646 (0) Table wpnc_nf3_fields: Total expected rows (approximate): 4
+0000.648 (0) Table wpnc_nf3_fields: Total rows added: 4 in 0.00 seconds
+0000.649 (0) Table wpnc_nf3_fields: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_nf3_fields.table.gz - 0.6 KB)
+0000.652 (0) Table wpnc_nf3_form_meta: Total expected rows (approximate): 113
+0000.655 (0) Table wpnc_nf3_form_meta: Total rows added: 113 in 0.00 seconds
+0000.656 (0) Table wpnc_nf3_form_meta: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_nf3_form_meta.table.gz - 1.7 KB)
+0000.659 (0) Table wpnc_nf3_forms: Total expected rows (approximate): 1
+0000.662 (0) Table wpnc_nf3_forms: Total rows added: 1 in 0.00 seconds
+0000.662 (0) Table wpnc_nf3_forms: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_nf3_forms.table.gz - 0.5 KB)
+0000.665 (0) Table wpnc_nf3_object_meta: Total expected rows (approximate): 0
+0000.666 (0) Table wpnc_nf3_object_meta: Total rows added: 0 in 0.00 seconds
+0000.667 (0) Table wpnc_nf3_object_meta: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_nf3_object_meta.table.gz - 0.3 KB)
+0000.671 (0) Table wpnc_nf3_objects: Total expected rows (approximate): 0
+0000.673 (0) Table wpnc_nf3_objects: Total rows added: 0 in 0.00 seconds
+0000.673 (0) Table wpnc_nf3_objects: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_nf3_objects.table.gz - 0.3 KB)
+0000.677 (0) Table wpnc_nf3_relationships: Total expected rows (approximate): 0
+0000.679 (0) Table wpnc_nf3_relationships: Total rows added: 0 in 0.00 seconds
+0000.680 (0) Table wpnc_nf3_relationships: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_nf3_relationships.table.gz - 0.4 KB)
+0000.682 (0) Table wpnc_nf3_upgrades: Total expected rows (approximate): 1
+0000.685 (0) Table wpnc_nf3_upgrades: Total rows added: 1 in 0.00 seconds
+0000.686 (0) Table wpnc_nf3_upgrades: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_nf3_upgrades.table.gz - 3 KB)
+0000.690 (0) Table wpnc_oxi_div_import: Total expected rows (approximate): 11
+0000.693 (0) Table wpnc_oxi_div_import: Total rows added: 11 in 0.00 seconds
+0000.694 (0) Table wpnc_oxi_div_import: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_oxi_div_import.table.gz - 0.5 KB)
+0000.698 (0) Table wpnc_oxi_div_list: Total expected rows (approximate): 7
+0000.700 (0) Table wpnc_oxi_div_list: Total rows added: 7 in 0.00 seconds
+0000.701 (0) Table wpnc_oxi_div_list: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_oxi_div_list.table.gz - 0.5 KB)
+0000.705 (0) Table wpnc_oxi_div_style: Total expected rows (approximate): 2
+0000.707 (0) Table wpnc_oxi_div_style: Total rows added: 2 in 0.00 seconds
+0000.708 (0) Table wpnc_oxi_div_style: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_oxi_div_style.table.gz - 2.5 KB)
+0000.713 (0) Table wpnc_pmxe_exports: Total expected rows (approximate): 1
+0000.716 (0) Table wpnc_pmxe_exports: Total rows added: 1 in 0.00 seconds
+0000.717 (0) Table wpnc_pmxe_exports: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_pmxe_exports.table.gz - 5.1 KB)
+0000.721 (0) Table wpnc_pmxe_google_cats: Total expected rows (approximate): 5371
+0000.772 (0) Table wpnc_pmxe_google_cats: Total rows added: 5371 in 0.05 seconds
+0000.773 (0) Table wpnc_pmxe_google_cats: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_pmxe_google_cats.table.gz - 75.3 KB)
+0000.778 (0) Table wpnc_pmxe_posts: Total expected rows (approximate): 5
+0000.780 (0) Table wpnc_pmxe_posts: Total rows added: 5 in 0.00 seconds
+0000.781 (0) Table wpnc_pmxe_posts: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_pmxe_posts.table.gz - 0.4 KB)
+0000.785 (0) Table wpnc_pmxe_templates: Total expected rows (approximate): 1
+0000.787 (0) Table wpnc_pmxe_templates: Total rows added: 1 in 0.00 seconds
+0000.788 (0) Table wpnc_pmxe_templates: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_pmxe_templates.table.gz - 4.9 KB)
+0000.792 (0) Table wpnc_smush_dir_images: Total expected rows (approximate): 0
+0000.794 (0) Table wpnc_smush_dir_images: Total rows added: 0 in 0.00 seconds
+0000.795 (0) Table wpnc_smush_dir_images: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_smush_dir_images.table.gz - 0.4 KB)
+0000.799 (0) Table wpnc_tm_taskmeta: Total expected rows (approximate): 0
+0000.804 (0) Table wpnc_tm_taskmeta: Total rows added: 0 in 0.00 seconds
+0000.805 (0) Table wpnc_tm_taskmeta: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_tm_taskmeta.table.gz - 0.4 KB)
+0000.812 (0) Table wpnc_tm_tasks: Total expected rows (approximate): 0
+0000.814 (0) Table wpnc_tm_tasks: Total rows added: 0 in 0.00 seconds
+0000.814 (0) Table wpnc_tm_tasks: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_tm_tasks.table.gz - 0.4 KB)
+0000.837 (0) Table wpnc_vxcf_leads: Total expected rows (approximate): 0
+0000.839 (0) Table wpnc_vxcf_leads: Total rows added: 0 in 0.00 seconds
+0000.840 (0) Table wpnc_vxcf_leads: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_vxcf_leads.table.gz - 0.5 KB)
+0000.844 (0) Table wpnc_vxcf_leads_detail: Total expected rows (approximate): 0
+0000.845 (0) Table wpnc_vxcf_leads_detail: Total rows added: 0 in 0.00 seconds
+0000.846 (0) Table wpnc_vxcf_leads_detail: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_vxcf_leads_detail.table.gz - 0.4 KB)
+0000.850 (0) Table wpnc_vxcf_leads_notes: Total expected rows (approximate): 0
+0000.851 (0) Table wpnc_vxcf_leads_notes: Total rows added: 0 in 0.00 seconds
+0000.852 (0) Table wpnc_vxcf_leads_notes: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_vxcf_leads_notes.table.gz - 0.4 KB)
+0000.855 (0) Table wpnc_vxcf_mailchimp: Total expected rows (approximate): 1
+0000.857 (0) Table wpnc_vxcf_mailchimp: Total rows added: 1 in 0.00 seconds
+0000.858 (0) Table wpnc_vxcf_mailchimp: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_vxcf_mailchimp.table.gz - 0.5 KB)
+0000.861 (0) Table wpnc_vxcf_mailchimp_accounts: Total expected rows (approximate): 1
+0000.864 (0) Table wpnc_vxcf_mailchimp_accounts: Total rows added: 1 in 0.00 seconds
+0000.865 (0) Table wpnc_vxcf_mailchimp_accounts: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_vxcf_mailchimp_accounts.table.gz - 0.4 KB)
+0000.869 (0) Table wpnc_vxcf_mailchimp_log: Total expected rows (approximate): 0
+0000.871 (0) Table wpnc_vxcf_mailchimp_log: Total rows added: 0 in 0.00 seconds
+0000.871 (0) Table wpnc_vxcf_mailchimp_log: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_vxcf_mailchimp_log.table.gz - 0.4 KB)
+0000.875 (0) Table wpnc_wc_admin_note_actions: Total expected rows (approximate): 9
+0000.877 (0) Table wpnc_wc_admin_note_actions: Total rows added: 9 in 0.00 seconds
+0000.878 (0) Table wpnc_wc_admin_note_actions: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wc_admin_note_actions.table.gz - 0.9 KB)
+0000.882 (0) Table wpnc_wc_admin_notes: Total expected rows (approximate): 8
+0000.884 (0) Table wpnc_wc_admin_notes: Total rows added: 8 in 0.00 seconds
+0000.885 (0) Table wpnc_wc_admin_notes: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wc_admin_notes.table.gz - 1.2 KB)
+0000.888 (0) Table wpnc_wc_customer_lookup: Total expected rows (approximate): 0
+0000.890 (0) Table wpnc_wc_customer_lookup: Total rows added: 0 in 0.00 seconds
+0000.891 (0) Table wpnc_wc_customer_lookup: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wc_customer_lookup.table.gz - 0.5 KB)
+0000.896 (0) Table wpnc_wc_download_log: Total expected rows (approximate): 0
+0000.897 (0) Table wpnc_wc_download_log: Total rows added: 0 in 0.00 seconds
+0000.898 (0) Table wpnc_wc_download_log: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wc_download_log.table.gz - 0.4 KB)
+0000.902 (0) Table wpnc_wc_order_coupon_lookup: Total expected rows (approximate): 0
+0000.903 (0) Table wpnc_wc_order_coupon_lookup: Total rows added: 0 in 0.00 seconds
+0000.904 (0) Table wpnc_wc_order_coupon_lookup: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wc_order_coupon_lookup.table.gz - 0.4 KB)
+0000.908 (0) Table wpnc_wc_order_product_lookup: Total expected rows (approximate): 0
+0000.910 (0) Table wpnc_wc_order_product_lookup: Total rows added: 0 in 0.00 seconds
+0000.911 (0) Table wpnc_wc_order_product_lookup: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wc_order_product_lookup.table.gz - 0.4 KB)
+0000.915 (0) Table wpnc_wc_order_stats: Total expected rows (approximate): 0
+0000.917 (0) Table wpnc_wc_order_stats: Total rows added: 0 in 0.00 seconds
+0000.917 (0) Table wpnc_wc_order_stats: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wc_order_stats.table.gz - 0.5 KB)
+0000.921 (0) Table wpnc_wc_order_tax_lookup: Total expected rows (approximate): 0
+0000.923 (0) Table wpnc_wc_order_tax_lookup: Total rows added: 0 in 0.00 seconds
+0000.923 (0) Table wpnc_wc_order_tax_lookup: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wc_order_tax_lookup.table.gz - 0.4 KB)
+0000.926 (0) Table wpnc_wc_webhooks: Total expected rows (approximate): 0
+0000.927 (0) Table wpnc_wc_webhooks: Total rows added: 0 in 0.00 seconds
+0000.928 (0) Table wpnc_wc_webhooks: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wc_webhooks.table.gz - 0.5 KB)
+0000.932 (0) Table wpnc_wfblockediplog: Total expected rows (approximate): 1
+0000.934 (0) Table wpnc_wfblockediplog: Total rows added: 1 in 0.00 seconds
+0000.934 (0) Table wpnc_wfblockediplog: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wfblockediplog.table.gz - 0.4 KB)
+0000.936 (0) Table wpnc_wfblocks7: Total expected rows (approximate): 0
+0000.938 (0) Table wpnc_wfblocks7: Total rows added: 0 in 0.00 seconds
+0000.938 (0) Table wpnc_wfblocks7: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wfblocks7.table.gz - 0.4 KB)
+0000.941 (0) Table wpnc_wfconfig: Total expected rows (approximate): 251
+0000.959 (0) Table wpnc_wfconfig: Total rows added: 251 in 0.02 seconds
+0000.960 (0) Table wpnc_wfconfig: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wfconfig.table.gz - 363.9 KB)
+0000.964 (0) Table wpnc_wfcrawlers: Total expected rows (approximate): 13
+0000.966 (0) Table wpnc_wfcrawlers: Total rows added: 13 in 0.00 seconds
+0000.966 (0) Table wpnc_wfcrawlers: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wfcrawlers.table.gz - 0.6 KB)
+0000.970 (0) Table wpnc_wffilechanges: Total expected rows (approximate): 0
+0000.971 (0) Table wpnc_wffilechanges: Total rows added: 0 in 0.00 seconds
+0000.972 (0) Table wpnc_wffilechanges: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wffilechanges.table.gz - 0.3 KB)
+0000.975 (0) Table wpnc_wffilemods: Total expected rows (approximate): 17151
+0001.260 (0) Table wpnc_wffilemods: Total rows added: 17151 in 0.28 seconds
+0001.261 (0) Table wpnc_wffilemods: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wffilemods.table.gz - 1339.2 KB)
+0001.264 (0) Table wpnc_wfhits: Total expected rows (approximate): 21
+0001.269 (0) Table wpnc_wfhits: Total rows added: 21 in 0.01 seconds
+0001.270 (0) Table wpnc_wfhits: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wfhits.table.gz - 16.8 KB)
+0001.274 (0) Table wpnc_wfhoover: Total expected rows (approximate): 0
+0001.276 (0) Table wpnc_wfhoover: Total rows added: 0 in 0.00 seconds
+0001.276 (0) Table wpnc_wfhoover: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wfhoover.table.gz - 0.3 KB)
+0001.280 (0) Table wpnc_wfissues: Total expected rows (approximate): 28
+0001.282 (0) Table wpnc_wfissues: Total rows added: 28 in 0.00 seconds
+0001.283 (0) Table wpnc_wfissues: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wfissues.table.gz - 7.2 KB)
+0001.287 (0) Table wpnc_wfknownfilelist: Total expected rows (approximate): 17151
+0001.364 (0) Table wpnc_wfknownfilelist: Total rows added: 17151 in 0.08 seconds
+0001.365 (0) Table wpnc_wfknownfilelist: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wfknownfilelist.table.gz - 173.1 KB)
+0001.367 (0) Table wpnc_wflivetraffichuman: Total expected rows (approximate): 0
+0001.368 (0) Table wpnc_wflivetraffichuman: Total rows added: 0 in 0.00 seconds
+0001.368 (0) Table wpnc_wflivetraffichuman: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wflivetraffichuman.table.gz - 0.3 KB)
+0001.371 (0) Table wpnc_wflocs: Total expected rows (approximate): 0
+0001.373 (0) Table wpnc_wflocs: Total rows added: 0 in 0.00 seconds
+0001.373 (0) Table wpnc_wflocs: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wflocs.table.gz - 0.4 KB)
+0001.376 (0) Table wpnc_wflogins: Total expected rows (approximate): 8
+0001.377 (0) Table wpnc_wflogins: Total rows added: 8 in 0.00 seconds
+0001.378 (0) Table wpnc_wflogins: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wflogins.table.gz - 0.8 KB)
+0001.380 (0) Table wpnc_wfls_2fa_secrets: Total expected rows (approximate): 0
+0001.381 (0) Table wpnc_wfls_2fa_secrets: Total rows added: 0 in 0.00 seconds
+0001.381 (0) Table wpnc_wfls_2fa_secrets: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wfls_2fa_secrets.table.gz - 0.4 KB)
+0001.383 (0) Table wpnc_wfls_settings: Total expected rows (approximate): 17
+0001.384 (0) Table wpnc_wfls_settings: Total rows added: 19 in 0.00 seconds
+0001.384 (0) Table wpnc_wfls_settings: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wfls_settings.table.gz - 0.7 KB)
+0001.387 (0) Table wpnc_wfnotifications: Total expected rows (approximate): 2
+0001.388 (0) Table wpnc_wfnotifications: Total rows added: 2 in 0.00 seconds
+0001.389 (0) Table wpnc_wfnotifications: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wfnotifications.table.gz - 0.6 KB)
+0001.392 (0) Table wpnc_wfpendingissues: Total expected rows (approximate): 0
+0001.393 (0) Table wpnc_wfpendingissues: Total rows added: 0 in 0.00 seconds
+0001.394 (0) Table wpnc_wfpendingissues: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wfpendingissues.table.gz - 0.4 KB)
+0001.396 (0) Table wpnc_wfreversecache: Total expected rows (approximate): 0
+0001.397 (0) Table wpnc_wfreversecache: Total rows added: 0 in 0.00 seconds
+0001.398 (0) Table wpnc_wfreversecache: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wfreversecache.table.gz - 0.3 KB)
+0001.400 (0) Table wpnc_wfsnipcache: Total expected rows (approximate): 0
+0001.401 (0) Table wpnc_wfsnipcache: Total rows added: 0 in 0.00 seconds
+0001.402 (0) Table wpnc_wfsnipcache: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wfsnipcache.table.gz - 0.4 KB)
+0001.405 (0) Table wpnc_wfstatus: Total expected rows (approximate): 1252
+0001.415 (0) Table wpnc_wfstatus: Total rows added: 1252 in 0.01 seconds
+0001.416 (0) Table wpnc_wfstatus: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wfstatus.table.gz - 18.8 KB)
+0001.419 (0) Table wpnc_wftrafficrates: Total expected rows (approximate): 0
+0001.420 (0) Table wpnc_wftrafficrates: Total rows added: 0 in 0.00 seconds
+0001.421 (0) Table wpnc_wftrafficrates: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wftrafficrates.table.gz - 0.3 KB)
+0001.424 (0) Table wpnc_woocommerce_api_keys: Total expected rows (approximate): 0
+0001.426 (0) Table wpnc_woocommerce_api_keys: Total rows added: 0 in 0.00 seconds
+0001.426 (0) Table wpnc_woocommerce_api_keys: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_woocommerce_api_keys.table.gz - 0.4 KB)
+0001.430 (0) Table wpnc_woocommerce_attribute_taxonomies: Total expected rows (approximate): 0
+0001.431 (0) Table wpnc_woocommerce_attribute_taxonomies: Total rows added: 0 in 0.00 seconds
+0001.432 (0) Table wpnc_woocommerce_attribute_taxonomies: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_woocommerce_attribute_taxonomies.table.gz - 0.4 KB)
+0001.435 (0) Table wpnc_woocommerce_downloadable_product_permissions: Total expected rows (approximate): 0
+0001.437 (0) Table wpnc_woocommerce_downloadable_product_permissions: Total rows added: 0 in 0.00 seconds
+0001.437 (0) Table wpnc_woocommerce_downloadable_product_permissions: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_woocommerce_downloadable_product_permissions.table.gz - 0.5 KB)
+0001.442 (0) Table wpnc_woocommerce_log: Total expected rows (approximate): 0
+0001.443 (0) Table wpnc_woocommerce_log: Total rows added: 0 in 0.00 seconds
+0001.444 (0) Table wpnc_woocommerce_log: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_woocommerce_log.table.gz - 0.4 KB)
+0001.448 (0) Table wpnc_woocommerce_order_items: Total expected rows (approximate): 0
+0001.449 (0) Table wpnc_woocommerce_order_items: Total rows added: 0 in 0.00 seconds
+0001.450 (0) Table wpnc_woocommerce_order_items: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_woocommerce_order_items.table.gz - 0.4 KB)
+0001.453 (0) Table wpnc_woocommerce_payment_tokens: Total expected rows (approximate): 0
+0001.454 (0) Table wpnc_woocommerce_payment_tokens: Total rows added: 0 in 0.00 seconds
+0001.454 (0) Table wpnc_woocommerce_payment_tokens: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_woocommerce_payment_tokens.table.gz - 0.4 KB)
+0001.458 (0) Table wpnc_woocommerce_sessions: Total expected rows (approximate): 0
+0001.459 (0) Table wpnc_woocommerce_sessions: Total rows added: 0 in 0.00 seconds
+0001.459 (0) Table wpnc_woocommerce_sessions: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_woocommerce_sessions.table.gz - 0.4 KB)
+0001.462 (0) Table wpnc_woocommerce_shipping_zone_locations: Total expected rows (approximate): 0
+0001.463 (0) Table wpnc_woocommerce_shipping_zone_locations: Total rows added: 0 in 0.00 seconds
+0001.463 (0) Table wpnc_woocommerce_shipping_zone_locations: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_woocommerce_shipping_zone_locations.table.gz - 0.4 KB)
+0001.465 (0) Table wpnc_woocommerce_shipping_zone_methods: Total expected rows (approximate): 0
+0001.466 (0) Table wpnc_woocommerce_shipping_zone_methods: Total rows added: 0 in 0.00 seconds
+0001.467 (0) Table wpnc_woocommerce_shipping_zone_methods: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_woocommerce_shipping_zone_methods.table.gz - 0.4 KB)
+0001.469 (0) Table wpnc_woocommerce_shipping_zones: Total expected rows (approximate): 0
+0001.470 (0) Table wpnc_woocommerce_shipping_zones: Total rows added: 0 in 0.00 seconds
+0001.471 (0) Table wpnc_woocommerce_shipping_zones: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_woocommerce_shipping_zones.table.gz - 0.3 KB)
+0001.473 (0) Table wpnc_woocommerce_tax_rate_locations: Total expected rows (approximate): 0
+0001.474 (0) Table wpnc_woocommerce_tax_rate_locations: Total rows added: 0 in 0.00 seconds
+0001.474 (0) Table wpnc_woocommerce_tax_rate_locations: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_woocommerce_tax_rate_locations.table.gz - 0.4 KB)
+0001.477 (0) Table wpnc_woocommerce_tax_rates: Total expected rows (approximate): 0
+0001.478 (0) Table wpnc_woocommerce_tax_rates: Total rows added: 0 in 0.00 seconds
+0001.479 (0) Table wpnc_woocommerce_tax_rates: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_woocommerce_tax_rates.table.gz - 0.4 KB)
+0001.482 (0) Table wpnc_wpforms_tasks_meta: Total expected rows (approximate): 2
+0001.483 (0) Table wpnc_wpforms_tasks_meta: Total rows added: 2 in 0.00 seconds
+0001.484 (0) Table wpnc_wpforms_tasks_meta: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wpforms_tasks_meta.table.gz - 0.4 KB)
+0001.487 (0) Table wpnc_yikes_easy_mc_forms: Total expected rows (approximate): 0
+0001.488 (0) Table wpnc_yikes_easy_mc_forms: Total rows added: 0 in 0.00 seconds
+0001.488 (0) Table wpnc_yikes_easy_mc_forms: finishing file (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_yikes_easy_mc_forms.table.gz - 0.4 KB)
+0001.490 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_options.table.gz (1/101): adding to final database dump
+0001.518 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_users.table.gz (2/101): adding to final database dump
+0001.519 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_usermeta.table.gz (3/101): adding to final database dump
+0001.520 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_actionscheduler_actions.table.gz (4/101): adding to final database dump
+0001.525 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_actionscheduler_claims.table.gz (5/101): adding to final database dump
+0001.525 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_actionscheduler_groups.table.gz (6/101): adding to final database dump
+0001.526 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_actionscheduler_logs.table.gz (7/101): adding to final database dump
+0001.531 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_commentmeta.table.gz (8/101): adding to final database dump
+0001.532 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_comments.table.gz (9/101): adding to final database dump
+0001.533 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_links.table.gz (10/101): adding to final database dump
+0001.533 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_postmeta.table.gz (11/101): adding to final database dump
+0001.693 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_posts.table.gz (12/101): adding to final database dump
+0001.737 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_term_relationships.table.gz (13/101): adding to final database dump
+0001.738 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_term_taxonomy.table.gz (14/101): adding to final database dump
+0001.739 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_termmeta.table.gz (15/101): adding to final database dump
+0001.739 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_terms.table.gz (16/101): adding to final database dump
+0001.739 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wc_category_lookup.table.gz (17/101): adding to final database dump
+0001.740 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wc_product_meta_lookup.table.gz (18/101): adding to final database dump
+0001.740 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wc_tax_rate_classes.table.gz (19/101): adding to final database dump
+0001.741 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_woocommerce_order_itemmeta.table.gz (20/101): adding to final database dump
+0001.741 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_woocommerce_payment_tokenmeta.table.gz (21/101): adding to final database dump
+0001.741 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_yoast_seo_links.table.gz (22/101): adding to final database dump
+0001.742 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_yoast_seo_meta.table.gz (23/101): adding to final database dump
+0001.743 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_content_tabs_ultimate_import.table.gz (24/101): adding to final database dump
+0001.743 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_content_tabs_ultimate_list.table.gz (25/101): adding to final database dump
+0001.743 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_content_tabs_ultimate_style.table.gz (26/101): adding to final database dump
+0001.744 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_image_hover_ultimate_list.table.gz (27/101): adding to final database dump
+0001.745 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_image_hover_ultimate_style.table.gz (28/101): adding to final database dump
+0001.745 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_mailchimp_carts.table.gz (29/101): adding to final database dump
+0001.746 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_mailchimp_jobs.table.gz (30/101): adding to final database dump
+0001.746 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_nf3_action_meta.table.gz (31/101): adding to final database dump
+0001.747 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_nf3_actions.table.gz (32/101): adding to final database dump
+0001.747 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_nf3_chunks.table.gz (33/101): adding to final database dump
+0001.747 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_nf3_field_meta.table.gz (34/101): adding to final database dump
+0001.749 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_nf3_fields.table.gz (35/101): adding to final database dump
+0001.749 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_nf3_form_meta.table.gz (36/101): adding to final database dump
+0001.750 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_nf3_forms.table.gz (37/101): adding to final database dump
+0001.751 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_nf3_object_meta.table.gz (38/101): adding to final database dump
+0001.751 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_nf3_objects.table.gz (39/101): adding to final database dump
+0001.751 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_nf3_relationships.table.gz (40/101): adding to final database dump
+0001.752 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_nf3_upgrades.table.gz (41/101): adding to final database dump
+0001.753 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_oxi_div_import.table.gz (42/101): adding to final database dump
+0001.753 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_oxi_div_list.table.gz (43/101): adding to final database dump
+0001.754 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_oxi_div_style.table.gz (44/101): adding to final database dump
+0001.755 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_pmxe_exports.table.gz (45/101): adding to final database dump
+0001.756 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_pmxe_google_cats.table.gz (46/101): adding to final database dump
+0001.772 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_pmxe_posts.table.gz (47/101): adding to final database dump
+0001.773 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_pmxe_templates.table.gz (48/101): adding to final database dump
+0001.774 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_smush_dir_images.table.gz (49/101): adding to final database dump
+0001.774 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_tm_taskmeta.table.gz (50/101): adding to final database dump
+0001.775 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_tm_tasks.table.gz (51/101): adding to final database dump
+0001.775 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_vxcf_leads.table.gz (52/101): adding to final database dump
+0001.775 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_vxcf_leads_detail.table.gz (53/101): adding to final database dump
+0001.776 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_vxcf_leads_notes.table.gz (54/101): adding to final database dump
+0001.776 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_vxcf_mailchimp.table.gz (55/101): adding to final database dump
+0001.777 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_vxcf_mailchimp_accounts.table.gz (56/101): adding to final database dump
+0001.777 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_vxcf_mailchimp_log.table.gz (57/101): adding to final database dump
+0001.777 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wc_admin_note_actions.table.gz (58/101): adding to final database dump
+0001.778 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wc_admin_notes.table.gz (59/101): adding to final database dump
+0001.778 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wc_customer_lookup.table.gz (60/101): adding to final database dump
+0001.778 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wc_download_log.table.gz (61/101): adding to final database dump
+0001.779 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wc_order_coupon_lookup.table.gz (62/101): adding to final database dump
+0001.779 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wc_order_product_lookup.table.gz (63/101): adding to final database dump
+0001.779 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wc_order_stats.table.gz (64/101): adding to final database dump
+0001.780 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wc_order_tax_lookup.table.gz (65/101): adding to final database dump
+0001.780 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wc_webhooks.table.gz (66/101): adding to final database dump
+0001.781 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wfblockediplog.table.gz (67/101): adding to final database dump
+0001.781 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wfblocks7.table.gz (68/101): adding to final database dump
+0001.781 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wfconfig.table.gz (69/101): adding to final database dump
+0001.796 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wfcrawlers.table.gz (70/101): adding to final database dump
+0001.797 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wffilechanges.table.gz (71/101): adding to final database dump
+0001.797 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wffilemods.table.gz (72/101): adding to final database dump
+0001.904 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wfhits.table.gz (73/101): adding to final database dump
+0001.907 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wfhoover.table.gz (74/101): adding to final database dump
+0001.908 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wfissues.table.gz (75/101): adding to final database dump
+0001.909 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wfknownfilelist.table.gz (76/101): adding to final database dump
+0001.942 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wflivetraffichuman.table.gz (77/101): adding to final database dump
+0001.943 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wflocs.table.gz (78/101): adding to final database dump
+0001.943 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wflogins.table.gz (79/101): adding to final database dump
+0001.944 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wfls_2fa_secrets.table.gz (80/101): adding to final database dump
+0001.944 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wfls_settings.table.gz (81/101): adding to final database dump
+0001.944 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wfnotifications.table.gz (82/101): adding to final database dump
+0001.945 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wfpendingissues.table.gz (83/101): adding to final database dump
+0001.945 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wfreversecache.table.gz (84/101): adding to final database dump
+0001.946 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wfsnipcache.table.gz (85/101): adding to final database dump
+0001.946 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wfstatus.table.gz (86/101): adding to final database dump
+0001.949 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wftrafficrates.table.gz (87/101): adding to final database dump
+0001.949 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_woocommerce_api_keys.table.gz (88/101): adding to final database dump
+0001.950 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_woocommerce_attribute_taxonomies.table.gz (89/101): adding to final database dump
+0001.950 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_woocommerce_downloadable_product_permissions.table.gz (90/101): adding to final database dump
+0001.950 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_woocommerce_log.table.gz (91/101): adding to final database dump
+0001.951 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_woocommerce_order_items.table.gz (92/101): adding to final database dump
+0001.951 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_woocommerce_payment_tokens.table.gz (93/101): adding to final database dump
+0001.951 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_woocommerce_sessions.table.gz (94/101): adding to final database dump
+0001.951 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_woocommerce_shipping_zone_locations.table.gz (95/101): adding to final database dump
+0001.952 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_woocommerce_shipping_zone_methods.table.gz (96/101): adding to final database dump
+0001.952 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_woocommerce_shipping_zones.table.gz (97/101): adding to final database dump
+0001.952 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_woocommerce_tax_rate_locations.table.gz (98/101): adding to final database dump
+0001.953 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_woocommerce_tax_rates.table.gz (99/101): adding to final database dump
+0001.954 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_wpforms_tasks_meta.table.gz (100/101): adding to final database dump
+0001.954 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db-table-wpnc_yikes_easy_mc_forms.table.gz (101/101): adding to final database dump
+0001.955 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db.gz: finished writing out complete database file (3312 KB)
+0001.989 (0) Total database tables backed up: 101 (backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db.gz, size: 3418999, sha1: 8c211941969be269bac1047ccfa64b0bc4b1c0c7, sha256: f73c181706d4881a0b831de9bbdb43766b3958eebee56b2e3ff91cbaf068a4d0)
+0001.991 (0) backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db.gz: db: This file has not yet been successfully uploaded: will queue
+0001.991 (0) Saving backup history. Total backup size: 3.3 MB
+0001.993 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0001.994 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0001.994 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-81fe1db220cc08ae3445cc27c405217e)
+0006.052 (0) Google Drive: quota usage: used=2279.7 MB, total=15360 MB, available=13080.3 MB
+0006.053 (0) Google Drive: backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db.gz: Attempting to upload to Google Drive (into folder id: 1vxTrYOnFPeY3KL0v9JfOyw2zn9moHILh)
+0007.135 (0) Googledrive chunked upload: 30.7 % uploaded (1048576)
+0007.489 (0) Googledrive chunked upload: 61.3 % uploaded (2097152)
+0007.828 (0) Googledrive chunked upload: 92 % uploaded (3145728)
+0010.059 (0) Googledrive chunked upload: 100 % uploaded (3145728)
+0010.060 (0) Google Drive: OK: Archive backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db.gz uploaded in 4.01 seconds
+0010.061 (0) Recording as successfully uploaded: backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db.gz
+0010.063 (0) Deleting local file: backup_2020-04-19-0710_Fun_Bahasa_d0298fb1b7da-db.gz: OK
+0010.064 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0010.066 (0) Number of backup sets in history: 4; groups (db): 1
+0010.066 (0) Examining (for databases) backup set with group_id=0, nonce=d0298fb1b7da, datestamp=1587280250 (Apr 19 2020 07:10:50)
+0010.066 (0) This backup set is the backup set just made, so will not be deleted.
+0010.067 (0) Examining (for databases) backup set with group_id=0, nonce=6e940cfa3ac6, datestamp=1587194143 (Apr 18 2020 07:15:43)
+0010.067 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0010.067 (0) Examining (for databases) backup set with group_id=0, nonce=dea81d0702ca, datestamp=1587193936 (Apr 18 2020 07:12:16)
+0010.067 (0) 1587193936: db: this set includes a database (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db.gz); db count is now 2
+0010.067 (0) 1587193936: db: over retain limit (2); will delete this database
+0010.067 (0) Delete file: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db.gz, service=googledrive
+0016.510 (0) Google Drive: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db.gz: Deletion successful
+0016.511 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0016.512 (0) Examining (for databases) backup set with group_id=0, nonce=3ca6a9da0d40, datestamp=1586589131 (Apr 11 2020 07:12:11)
+0016.512 (0) Number of backup sets in history: 4; groups (files): 1
+0016.512 (0) Examining (for files) backup set with nonce=d0298fb1b7da, datestamp=1587280250 (Apr 19 2020 07:10:50)
+0016.512 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0016.513 (0) Examining (for files) backup set with nonce=6e940cfa3ac6, datestamp=1587194143 (Apr 18 2020 07:15:43)
+0016.513 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0016.513 (0) Examining (for files) backup set with nonce=dea81d0702ca, datestamp=1587193936 (Apr 18 2020 07:12:16)
+0016.513 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0016.513 (0) Examining (for files) backup set with nonce=3ca6a9da0d40, datestamp=1586589131 (Apr 11 2020 07:12:11)
+0016.513 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0016.513 (0) Retain: saving new backup history (sets now: 4) and finishing retain operation
+0016.515 (0) Resume backup (d0298fb1b7da, 0): finish run
+0016.516 (0) Decremented the semaphore (d) by 1
+0016.516 (0) Semaphore (d) unlocked
+0016.516 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0016.518 (0) Fetching RSS news feed
+0016.835 (0) Fetched RSS news feed; result is a: SimplePie
+0016.862 (0) Sending email ('Database only (files were not part of this particular schedule)') report (attachments: 0, size: 0 KB) to: admin...
+0016.869 (0) The backup apparently succeeded and is now complete

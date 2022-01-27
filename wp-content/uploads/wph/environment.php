@@ -1,0 +1,2 @@
+<?php if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
+$environment_variable = '{"theme":{"folder_name":"astra","mapped_name":""},"allowed_paths":["C:\/laragon\/www\/funbahasa\/wp-content\/themes"],"cache_path":"C:\/laragon\/www\/funbahasa\/wp-content\/cache\/wph\/","wordpress_directory":"","site_relative_path":"\/"}'; ?>

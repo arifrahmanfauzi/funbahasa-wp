@@ -1,0 +1,188 @@
+[14-Aug-2021 19:12:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[15-Aug-2021 14:48:35 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Aug-2021 11:19:57 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[23-Aug-2021 05:59:17 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[27-Aug-2021 19:29:47 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[31-Aug-2021 11:37:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[01-Sep-2021 05:45:53 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[11-Sep-2021 17:26:09 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[20-Sep-2021 15:57:43 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[21-Sep-2021 16:18:03 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[21-Sep-2021 16:21:23 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[21-Sep-2021 17:30:10 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[21-Sep-2021 22:19:08 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[21-Sep-2021 23:12:43 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[22-Sep-2021 00:21:42 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[22-Sep-2021 01:44:54 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[22-Sep-2021 01:53:49 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[22-Sep-2021 04:33:27 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[22-Sep-2021 05:47:07 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[22-Sep-2021 17:40:34 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Sep-2021 08:04:35 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[26-Sep-2021 11:30:51 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[29-Sep-2021 20:13:59 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[30-Sep-2021 22:38:06 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[03-Oct-2021 12:05:59 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[06-Oct-2021 14:32:42 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[08-Oct-2021 00:25:15 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[12-Oct-2021 08:38:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[13-Oct-2021 02:29:20 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[13-Oct-2021 12:00:31 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[14-Oct-2021 20:49:35 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Oct-2021 22:18:00 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[17-Oct-2021 01:44:53 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[19-Oct-2021 02:48:18 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[19-Oct-2021 05:15:27 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[27-Oct-2021 08:58:47 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[14-Nov-2021 02:08:18 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[29-Nov-2021 20:05:56 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[03-Dec-2021 07:27:01 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[04-Dec-2021 04:49:34 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[04-Dec-2021 14:17:49 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[21-Dec-2021 07:36:05 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[29-Dec-2021 12:15:20 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[03-Jan-2022 17:20:58 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[08-Jan-2022 22:08:23 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[14-Jan-2022 06:46:35 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[22-Jan-2022 14:41:02 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17

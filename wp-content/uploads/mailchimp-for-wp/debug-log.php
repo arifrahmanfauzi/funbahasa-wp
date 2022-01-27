@@ -1,0 +1,12 @@
+<?php exit; ?>
+[2020-05-29 10:56:39] ERROR: Form 343 > Mailchimp API error: 400 Bad Request. Invalid Resource. Shin*******@gm***.c looks fake or invalid, please enter a real email address.
+Request: POST https://us4.api.mailchimp.com/3.0/lists/c3387c3e64/members - {"status":"pending","email_address":"Shin*******@gm***.c","interests":{},"merge_fields":{},"email_type":"html","ip_signup":"125.160.61.187","tags":["funners"]}
+Response: 400 Bad Request - {"type":"http://developer.mailchimp.com/documentation/mailchimp/guides/error-glossary/","title":"Invalid Resource","status":400,"detail":"Shin*******@gm***.c looks fake or invalid, please enter a real email address.","instance":"f41581a2-fa80-4108-957e-e601809f0cff"}
+[2020-05-29 10:56:56] ERROR: Form 343 > Mailchimp API error: 400 Bad Request. Invalid Resource. Shin*******@gm***.c looks fake or invalid, please enter a real email address.
+Request: POST https://us4.api.mailchimp.com/3.0/lists/c3387c3e64/members - {"status":"pending","email_address":"Shin*******@gm***.c","interests":{},"merge_fields":{},"email_type":"html","ip_signup":"125.160.61.187","tags":["funners"]}
+Response: 400 Bad Request - {"type":"http://developer.mailchimp.com/documentation/mailchimp/guides/error-glossary/","title":"Invalid Resource","status":400,"detail":"Shin*******@gm***.c looks fake or invalid, please enter a real email address.","instance":"ec72af64-408d-49f2-a313-abd4ecfc95d0"}
+[2020-06-16 14:31:19] ERROR: Form 343 > Mailchimp API error: 0 cURL error 7: Failed to connect to us4.api.mailchimp.com port 443: Connection refused.
+Request: GET https://us4.api.mailchimp.com/3.0/lists/c3387c3e64/members/ace22fcd8bb580a38ba9db76527336d1
+[2020-07-28 02:57:31] ERROR: Form 343 > Mailchimp API error: 400 Bad Request. Invalid Resource. sexy*******@gm***.com has signed up to a lot of lists very recently; we're not allowing more signups for now
+Request: POST https://us4.api.mailchimp.com/3.0/lists/c3387c3e64/members - {"status":"pending","email_address":"sexy*******@gm***.com","interests":{},"merge_fields":{},"email_type":"html","ip_signup":"199.249.230.156, 199.249.230.156","tags":["funners"]}
+Response: 400 Bad Request - {"type":"http://developer.mailchimp.com/documentation/mailchimp/guides/error-glossary/","title":"Invalid Resource","status":400,"detail":"sexy*******@gm***.com has signed up to a lot of lists very recently; we're not allowing more signups for now","instance":"bc977351-1285-43d0-8d5f-da9360ddbcc4"}

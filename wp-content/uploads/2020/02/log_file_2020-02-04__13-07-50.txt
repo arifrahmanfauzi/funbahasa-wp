@@ -1,0 +1,43 @@
+
+---Upload files---
+Redux file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 180
+Files info:
+Site URL = https://funbahasa.com
+Data file = /home/funbahas/public_html/wp-content/uploads/2020/02/buzzagency.WordPress.2020-01-31.xml
+Widget file = /home/funbahas/public_html/wp-content/uploads/2020/02/demo.aarambhathemes.com-buzz-agency-widgets.wie
+Customizer file = /home/funbahas/public_html/wp-content/uploads/2020/02/buzz-agency-export.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Right Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Categories - No Title - Imported
+Archives - No Title - Imported
+Gallery - Gallery - Imported
+
+Left Sidebar : 
+
+Categories - Categories - Imported
+Recent Posts - Recent Buzz - Imported
+Archives - Archives - Imported
+
+Footer One : 
+
+Image - No Title - Imported
+Custom HTML - No Title - Imported
+
+Footer Two : 
+
+Text - Stay updated to our newsletter - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!

@@ -1,0 +1,867 @@
+0000.001 (0) Opened log file at time: Sat, 18 Apr 2020 07:12:16 +0000 on https://funbahasa.com
+0000.002 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.22 WP: 5.3.2 PHP: 7.1.32 (litespeed, Linux luna.jagoanhosting.com 3.10.0-962.3.2.lve1.5.24.10.el7.x86_64 #1 SMP Wed Mar 20 07:36:02 EDT 2019 x86_64) MySQL: 10.1.41-MariaDB-cll-lve WPLANG: en_US Server: LiteSpeed safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 96.4M | 98M) multisite: N openssl: OpenSSL 1.0.2k  26 Jan 2017 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.003 (0) Free space on disk containing Updraft's temporary directory: 90467 MB
+0000.005 (0) Tasks: Backup files: 1 (schedule: weekly) Backup DB:  (schedule: daily)
+0000.006 (0) Processed schedules. Combining jobs from co-inciding events. Tasks now: Backup files: 1 Backup DB: 1
+0000.012 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1586589131, seconds_ago=604805)
+0000.013 (0) Set semaphore last lock (fd) time to 2020-04-18 07:12:16
+0000.014 (0) Semaphore lock (fd) complete
+0000.016 (0) Backup run: resumption=0, nonce=dea81d0702ca, file_nonce=dea81d0702ca begun at=1587193936 (0s ago), job type=backup
+0000.017 (0) Scheduling a resumption (1) after 300 seconds (1587194236) in case this run gets aborted
+0000.026 (0) Checking if we have a zip executable available
+0000.045 (0) Creation of backups of directories: beginning
+0000.048 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.715 (0) Total entities for the zip file: 2804 directories, 15118 files (0 skipped as non-modified), 261.4 MB
+0000.720 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.722 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.724 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0000.726 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0000.728 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0000.728 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (7.6 MB, 15118 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0001.392 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 600 files added (on-disk size: 3569.7 KB)
+0001.394 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 700 files added (on-disk size: 3569.7 KB)
+0001.396 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 800 files added (on-disk size: 3569.7 KB)
+0001.398 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 900 files added (on-disk size: 3569.7 KB)
+0001.400 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 1000 files added (on-disk size: 3569.7 KB)
+0001.401 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (16.5 MB, 15118 files batched, 501 (1002) added so far); re-opening (prior size: 3569.7 KB)
+0003.210 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 1100 files added (on-disk size: 8861.4 KB)
+0003.214 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 1200 files added (on-disk size: 8861.4 KB)
+0003.217 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 1300 files added (on-disk size: 8861.4 KB)
+0003.222 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 1400 files added (on-disk size: 8861.4 KB)
+0003.225 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 1500 files added (on-disk size: 8861.4 KB)
+0003.226 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.9 MB, 15118 files batched, 501 (1503) added so far); re-opening (prior size: 8861.4 KB)
+0004.091 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 1600 files added (on-disk size: 10304 KB)
+0004.094 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 1700 files added (on-disk size: 10304 KB)
+0004.097 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 1800 files added (on-disk size: 10304 KB)
+0004.100 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 1900 files added (on-disk size: 10304 KB)
+0004.104 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 2000 files added (on-disk size: 10304 KB)
+0004.104 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.8 MB, 15118 files batched, 501 (2004) added so far); re-opening (prior size: 10304 KB)
+0004.522 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 2100 files added (on-disk size: 11009.5 KB)
+0004.524 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 2200 files added (on-disk size: 11009.5 KB)
+0004.527 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 2300 files added (on-disk size: 11009.5 KB)
+0004.530 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 2400 files added (on-disk size: 11009.5 KB)
+0004.532 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 2500 files added (on-disk size: 11009.5 KB)
+0004.533 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (15 MB, 15118 files batched, 501 (2505) added so far); re-opening (prior size: 11009.5 KB)
+0006.323 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 2600 files added (on-disk size: 15518.1 KB)
+0006.330 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 2700 files added (on-disk size: 15518.1 KB)
+0006.333 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 2800 files added (on-disk size: 15518.1 KB)
+0006.337 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 2900 files added (on-disk size: 15518.1 KB)
+0006.340 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 3000 files added (on-disk size: 15518.1 KB)
+0006.343 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (5.5 MB, 15118 files batched, 501 (3006) added so far); re-opening (prior size: 15518.1 KB)
+0006.917 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 3100 files added (on-disk size: 17146.8 KB)
+0006.928 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 3200 files added (on-disk size: 17146.8 KB)
+0006.930 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 3300 files added (on-disk size: 17146.8 KB)
+0006.933 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 3400 files added (on-disk size: 17146.8 KB)
+0006.935 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 3500 files added (on-disk size: 17146.8 KB)
+0006.935 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.5 MB, 15118 files batched, 501 (3507) added so far); re-opening (prior size: 17146.8 KB)
+0007.706 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 3600 files added (on-disk size: 18312.2 KB)
+0007.709 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 3700 files added (on-disk size: 18312.2 KB)
+0007.711 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 3800 files added (on-disk size: 18312.2 KB)
+0007.714 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 3900 files added (on-disk size: 18312.2 KB)
+0007.716 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 4000 files added (on-disk size: 18312.2 KB)
+0007.717 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.4 MB, 15118 files batched, 501 (4008) added so far); re-opening (prior size: 18312.2 KB)
+0008.296 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 4100 files added (on-disk size: 19140.3 KB)
+0008.299 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 4200 files added (on-disk size: 19140.3 KB)
+0008.302 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 4300 files added (on-disk size: 19140.3 KB)
+0008.305 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 4400 files added (on-disk size: 19140.3 KB)
+0008.308 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 4500 files added (on-disk size: 19140.3 KB)
+0008.308 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.9 MB, 15118 files batched, 501 (4509) added so far); re-opening (prior size: 19140.3 KB)
+0009.074 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 4600 files added (on-disk size: 20849.9 KB)
+0009.078 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 4700 files added (on-disk size: 20849.9 KB)
+0009.081 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 4800 files added (on-disk size: 20849.9 KB)
+0009.084 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 4900 files added (on-disk size: 20849.9 KB)
+0009.088 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 5000 files added (on-disk size: 20849.9 KB)
+0009.089 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (9 MB, 15118 files batched, 501 (5010) added so far); re-opening (prior size: 20849.9 KB)
+0010.269 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 5100 files added (on-disk size: 24164.3 KB)
+0010.272 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 5200 files added (on-disk size: 24164.3 KB)
+0010.274 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 5300 files added (on-disk size: 24164.3 KB)
+0010.276 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 5400 files added (on-disk size: 24164.3 KB)
+0010.278 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 5500 files added (on-disk size: 24164.3 KB)
+0010.278 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (5.6 MB, 15118 files batched, 501 (5511) added so far); re-opening (prior size: 24164.3 KB)
+0010.978 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 5600 files added (on-disk size: 26899.6 KB)
+0010.985 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 5700 files added (on-disk size: 26899.6 KB)
+0010.987 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 5800 files added (on-disk size: 26899.6 KB)
+0010.989 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 5900 files added (on-disk size: 26899.6 KB)
+0010.991 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 6000 files added (on-disk size: 26899.6 KB)
+0010.991 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.4 MB, 15118 files batched, 501 (6012) added so far); re-opening (prior size: 26899.6 KB)
+0011.622 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 6100 files added (on-disk size: 28084.9 KB)
+0011.624 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 6200 files added (on-disk size: 28084.9 KB)
+0011.626 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 6300 files added (on-disk size: 28084.9 KB)
+0011.628 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 6400 files added (on-disk size: 28084.9 KB)
+0011.630 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 6500 files added (on-disk size: 28084.9 KB)
+0011.630 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (9 MB, 15118 files batched, 501 (6513) added so far); re-opening (prior size: 28084.9 KB)
+0012.819 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 6600 files added (on-disk size: 30720.2 KB)
+0012.821 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 6700 files added (on-disk size: 30720.2 KB)
+0012.823 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 6800 files added (on-disk size: 30720.2 KB)
+0012.825 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 6900 files added (on-disk size: 30720.2 KB)
+0012.827 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 7000 files added (on-disk size: 30720.2 KB)
+0012.828 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (11.9 MB, 15118 files batched, 501 (7014) added so far); re-opening (prior size: 30720.2 KB)
+0016.023 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 7100 files added (on-disk size: 36110.3 KB)
+0016.026 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 7200 files added (on-disk size: 36110.3 KB)
+0016.029 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 7300 files added (on-disk size: 36110.3 KB)
+0016.032 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 7400 files added (on-disk size: 36110.3 KB)
+0016.035 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 7500 files added (on-disk size: 36110.3 KB)
+0016.036 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6.5 MB, 15118 files batched, 501 (7515) added so far); re-opening (prior size: 36110.3 KB)
+0017.236 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 7600 files added (on-disk size: 38046.7 KB)
+0017.239 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 7700 files added (on-disk size: 38046.7 KB)
+0017.241 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 7800 files added (on-disk size: 38046.7 KB)
+0017.243 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 7900 files added (on-disk size: 38046.7 KB)
+0017.245 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 8000 files added (on-disk size: 38046.7 KB)
+0017.246 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (13.3 MB, 15118 files batched, 501 (8016) added so far); re-opening (prior size: 38046.7 KB)
+0019.278 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 8100 files added (on-disk size: 42966 KB)
+0019.280 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 8200 files added (on-disk size: 42966 KB)
+0019.282 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 8300 files added (on-disk size: 42966 KB)
+0019.284 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 8400 files added (on-disk size: 42966 KB)
+0019.286 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 8500 files added (on-disk size: 42966 KB)
+0019.288 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (17 MB, 15118 files batched, 501 (8517) added so far); re-opening (prior size: 42966 KB)
+0020.762 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 8600 files added (on-disk size: 44737.8 KB)
+0020.782 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 8700 files added (on-disk size: 44737.8 KB)
+0020.785 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 8800 files added (on-disk size: 44737.8 KB)
+0020.788 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 8900 files added (on-disk size: 44737.8 KB)
+0020.791 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 9000 files added (on-disk size: 44737.8 KB)
+0020.792 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (12.6 MB, 15118 files batched, 501 (9018) added so far); re-opening (prior size: 44737.8 KB)
+0023.433 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 9100 files added (on-disk size: 49143.6 KB)
+0023.436 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 9200 files added (on-disk size: 49143.6 KB)
+0023.439 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 9300 files added (on-disk size: 49143.6 KB)
+0023.443 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 9400 files added (on-disk size: 49143.6 KB)
+0023.447 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 9500 files added (on-disk size: 49143.6 KB)
+0023.448 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.5 MB, 15118 files batched, 501 (9519) added so far); re-opening (prior size: 49143.6 KB)
+0024.647 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 9600 files added (on-disk size: 50846.7 KB)
+0024.650 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 9700 files added (on-disk size: 50846.7 KB)
+0024.652 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 9800 files added (on-disk size: 50846.7 KB)
+0024.654 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 9900 files added (on-disk size: 50846.7 KB)
+0024.656 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 10000 files added (on-disk size: 50846.7 KB)
+0024.657 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (15.3 MB, 15118 files batched, 501 (10020) added so far); re-opening (prior size: 50846.7 KB)
+0026.500 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 10100 files added (on-disk size: 55718.6 KB)
+0026.502 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 10200 files added (on-disk size: 55718.6 KB)
+0026.505 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 10300 files added (on-disk size: 55718.6 KB)
+0026.507 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 10400 files added (on-disk size: 55718.6 KB)
+0026.509 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 10500 files added (on-disk size: 55718.6 KB)
+0026.510 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6 MB, 15118 files batched, 501 (10521) added so far); re-opening (prior size: 55718.6 KB)
+0028.219 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 10600 files added (on-disk size: 57552 KB)
+0028.225 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 10700 files added (on-disk size: 57552 KB)
+0028.229 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 10800 files added (on-disk size: 57552 KB)
+0028.232 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 10900 files added (on-disk size: 57552 KB)
+0028.236 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 11000 files added (on-disk size: 57552 KB)
+0028.237 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6.1 MB, 15118 files batched, 501 (11022) added so far); re-opening (prior size: 57552 KB)
+0029.978 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 11100 files added (on-disk size: 59515.7 KB)
+0029.982 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 11200 files added (on-disk size: 59515.7 KB)
+0029.986 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 11300 files added (on-disk size: 59515.7 KB)
+0029.989 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 11400 files added (on-disk size: 59515.7 KB)
+0029.993 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 11500 files added (on-disk size: 59515.7 KB)
+0029.995 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (11.3 MB, 15118 files batched, 501 (11523) added so far); re-opening (prior size: 59515.7 KB)
+0031.578 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 11600 files added (on-disk size: 61754.5 KB)
+0031.581 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 11700 files added (on-disk size: 61754.5 KB)
+0031.585 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 11800 files added (on-disk size: 61754.5 KB)
+0031.588 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 11900 files added (on-disk size: 61754.5 KB)
+0031.591 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 12000 files added (on-disk size: 61754.5 KB)
+0031.593 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.3 MB, 15118 files batched, 501 (12024) added so far); re-opening (prior size: 61754.5 KB)
+0033.021 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 12100 files added (on-disk size: 62770.1 KB)
+0033.025 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 12200 files added (on-disk size: 62770.1 KB)
+0033.029 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 12300 files added (on-disk size: 62770.1 KB)
+0033.033 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 12400 files added (on-disk size: 62770.1 KB)
+0033.037 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 12500 files added (on-disk size: 62770.1 KB)
+0033.038 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (7.6 MB, 15118 files batched, 501 (12525) added so far); re-opening (prior size: 62770.1 KB)
+0034.893 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 12600 files added (on-disk size: 67032.6 KB)
+0034.897 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 12700 files added (on-disk size: 67032.6 KB)
+0034.909 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 12800 files added (on-disk size: 67032.6 KB)
+0034.912 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 12900 files added (on-disk size: 67032.6 KB)
+0034.919 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 13000 files added (on-disk size: 67032.6 KB)
+0034.922 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (17.1 MB, 15118 files batched, 501 (13026) added so far); re-opening (prior size: 67032.6 KB)
+0037.475 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 13100 files added (on-disk size: 73177.4 KB)
+0037.479 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 13200 files added (on-disk size: 73177.4 KB)
+0037.482 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 13300 files added (on-disk size: 73177.4 KB)
+0037.485 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 13400 files added (on-disk size: 73177.4 KB)
+0037.489 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 13500 files added (on-disk size: 73177.4 KB)
+0037.490 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (10.8 MB, 15118 files batched, 501 (13527) added so far); re-opening (prior size: 73177.4 KB)
+0039.515 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 13600 files added (on-disk size: 76453.4 KB)
+0039.519 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 13700 files added (on-disk size: 76453.4 KB)
+0039.522 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 13800 files added (on-disk size: 76453.4 KB)
+0039.524 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 13900 files added (on-disk size: 76453.4 KB)
+0039.526 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 14000 files added (on-disk size: 76453.4 KB)
+0039.527 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (9.9 MB, 15118 files batched, 501 (14028) added so far); re-opening (prior size: 76453.4 KB)
+0041.299 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 14100 files added (on-disk size: 79852.6 KB)
+0041.302 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 14200 files added (on-disk size: 79852.6 KB)
+0041.305 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 14300 files added (on-disk size: 79852.6 KB)
+0041.310 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 14400 files added (on-disk size: 79852.6 KB)
+0041.313 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 14500 files added (on-disk size: 79852.6 KB)
+0041.314 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3 MB, 15118 files batched, 501 (14529) added so far); re-opening (prior size: 79852.6 KB)
+0042.942 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 14600 files added (on-disk size: 80878.1 KB)
+0042.945 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 14700 files added (on-disk size: 80878.1 KB)
+0042.949 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 14800 files added (on-disk size: 80878.1 KB)
+0042.952 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 14900 files added (on-disk size: 80878.1 KB)
+0042.955 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 15000 files added (on-disk size: 80878.1 KB)
+0042.957 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (10.5 MB, 15118 files batched, 501 (15030) added so far); re-opening (prior size: 80878.1 KB)
+0045.285 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip.tmp: 15100 files added (on-disk size: 84285.8 KB)
+0047.804 (0) Created plugins zip (0) - 86079 KB in 47.8 s (1802.5 KB/s) (sha1: 6f6190fdeef0daecb247331433e9f0d51125a3e2, sha256: a439cd42096336a9ecde99278a06f1474ce000c9b42da6c96f9e995f86be585d)
+0047.806 (0) Beginning creation of dump of themes (split every: 400 MB)
+0047.826 (0) Total entities for the zip file: 74 directories, 336 files (0 skipped as non-modified), 6.7 MB
+0047.830 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0047.833 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0047.836 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0048.350 (0) Created themes zip (0) - 3869.9 KB in 0.5 s (7122.8 KB/s) (sha1: e1eeb5236713e4b4337cbf1e29161d6f286342a3, sha256: b76cc8bc425f205d0d9fbe7f8591cebab8e53179279f841941a6575de836470e)
+0048.352 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0048.353 (0) Looking for candidates to backup in: /home/funbahas/public_html/wp-content/uploads
+0048.353 (0) finding files: elementor: adding to list (1)
+0048.354 (0) finding files: woocommerce-placeholder-150x150.png: adding to list (2)
+0048.354 (0) finding files: smush-73ab57b3556b790a997e.log: adding to list (3)
+0048.355 (0) finding files: woocommerce_uploads: adding to list (4)
+0048.355 (0) finding files: mc4wp-debug-log.php: adding to list (5)
+0048.356 (0) finding files: bb-plugin: adding to list (6)
+0048.356 (0) finding files: essential-addons-elementor: adding to list (7)
+0048.356 (0) finding files: woocommerce-placeholder-1024x1024.png: adding to list (8)
+0048.357 (0) finding files: woocommerce-placeholder-updraft-pre-smush-original.png: adding to list (9)
+0048.357 (0) finding files: 2020: adding to list (10)
+0048.358 (0) finding files: 2019: adding to list (11)
+0048.359 (0) finding files: woocommerce-placeholder-95x95.png: adding to list (12)
+0048.359 (0) finding files: wpallexport: adding to list (13)
+0048.360 (0) finding files: crm_perks_uploads: adding to list (14)
+0048.360 (0) finding files: shortcode-addons: adding to list (15)
+0048.361 (0) finding files: woocommerce-placeholder.png: adding to list (16)
+0048.361 (0) finding files: woocommerce-placeholder-300x300.png: adding to list (17)
+0048.362 (0) finding files: wph: adding to list (18)
+0048.362 (0) finding files: woocommerce-placeholder-768x768.png: adding to list (19)
+0048.362 (0) finding files: wc-logs: adding to list (20)
+0048.363 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0048.405 (0) Total entities for the zip file: 62 directories, 1026 files (0 skipped as non-modified), 26.6 MB
+0048.408 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0048.410 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0048.412 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0048.414 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-uploads.zip.tmp: 400 files added (on-disk size: 0 KB)
+0048.416 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-uploads.zip.tmp: 500 files added (on-disk size: 0 KB)
+0048.416 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (11.1 MB, 1026 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0048.947 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-uploads.zip.tmp: 600 files added (on-disk size: 9167.5 KB)
+0048.949 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-uploads.zip.tmp: 700 files added (on-disk size: 9167.5 KB)
+0048.950 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-uploads.zip.tmp: 800 files added (on-disk size: 9167.5 KB)
+0048.952 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-uploads.zip.tmp: 900 files added (on-disk size: 9167.5 KB)
+0048.954 (0) Zip: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-uploads.zip.tmp: 1000 files added (on-disk size: 9167.5 KB)
+0048.955 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (15.2 MB, 1026 files batched, 501 (1002) added so far); re-opening (prior size: 9167.5 KB)
+0050.484 (0) Created uploads zip (0) - 23915.1 KB in 2.1 s (11280.7 KB/s) (sha1: c3a5205ee04f3cdbcf50002a6bf7c5f76af4c445, sha256: cb45d4d13ccc2046ed2d7e557e61b8caf11388d0127feeb5670e9904d68472dc)
+0050.486 (0) Beginning backup of other directories found in the content directory (index: 0)
+0050.486 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0050.487 (0) Looking for candidates to backup in: /home/funbahas/public_html/wp-content
+0050.487 (0) finding files: uploads: skipping: this is the uploads directory
+0050.488 (0) finding files: plugins: skipping: this is the plugins directory
+0050.488 (0) finding files: index.php: adding to list (1)
+0050.489 (0) finding files: upgrade: skipping: excluded by options
+0050.489 (0) finding files: advanced-cache.php: adding to list (2)
+0050.490 (0) finding files: w3tc-config: adding to list (3)
+0050.490 (0) finding files: themes: skipping: this is the themes directory
+0050.491 (0) finding files: cache: skipping: excluded by options
+0050.491 (0) finding files: mu-plugins: adding to list (4)
+0050.491 (0) finding files: updraft: skipping: this is the updraft directory
+0050.492 (0) finding files: wflogs: adding to list (5)
+0050.496 (0) Total entities for the zip file: 3 directories, 16 files (0 skipped as non-modified), 5.3 MB
+0052.848 (0) Created others zip (0) - 2462.8 KB in 2.4 s (1045.5 KB/s) (sha1: c52dd6851de9353f5f9e2f9f9c52dfedf5cf2a63, sha256: 1ae96041ac6f6ec8ceea145ed827e5814f3428b38028d5c472204ec5b0425717)
+0052.852 (0) Saving backup status to database (elements: 8)
+0052.854 (0) Beginning creation of database dump (WordPress DB)
+0052.882 (0) Table wpnc_options: Total expected rows (approximate): 754
+0052.927 (0) Table wpnc_options: Total rows added: 750 in 0.04 seconds
+0052.928 (0) Table wpnc_options: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_options.table.gz - 209.3 KB)
+0052.932 (0) Table wpnc_users: Total expected rows (approximate): 2
+0052.933 (0) Table wpnc_users: Total rows added: 2 in 0.00 seconds
+0052.934 (0) Table wpnc_users: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_users.table.gz - 0.7 KB)
+0052.937 (0) Table wpnc_usermeta: Total expected rows (approximate): 79
+0052.940 (0) Table wpnc_usermeta: Total rows added: 79 in 0.00 seconds
+0052.941 (0) Table wpnc_usermeta: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_usermeta.table.gz - 7.2 KB)
+0052.943 (0) Table wpnc_actionscheduler_actions: Total expected rows (approximate): 650
+0052.957 (0) Table wpnc_actionscheduler_actions: Total rows added: 650 in 0.01 seconds
+0052.957 (0) Table wpnc_actionscheduler_actions: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_actionscheduler_actions.table.gz - 19.8 KB)
+0052.959 (0) Table wpnc_actionscheduler_claims: Total expected rows (approximate): 0
+0052.960 (0) Table wpnc_actionscheduler_claims: Total rows added: 0 in 0.00 seconds
+0052.961 (0) Table wpnc_actionscheduler_claims: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_actionscheduler_claims.table.gz - 0.4 KB)
+0052.962 (0) Table wpnc_actionscheduler_groups: Total expected rows (approximate): 5
+0052.963 (0) Table wpnc_actionscheduler_groups: Total rows added: 5 in 0.00 seconds
+0052.964 (0) Table wpnc_actionscheduler_groups: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_actionscheduler_groups.table.gz - 0.4 KB)
+0052.967 (0) Table wpnc_actionscheduler_logs: Total expected rows (approximate): 1947
+0052.981 (0) Table wpnc_actionscheduler_logs: Total rows added: 1947 in 0.01 seconds
+0052.982 (0) Table wpnc_actionscheduler_logs: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_actionscheduler_logs.table.gz - 17.1 KB)
+0052.986 (0) Table wpnc_commentmeta: Total expected rows (approximate): 9
+0052.989 (0) Table wpnc_commentmeta: Total rows added: 9 in 0.00 seconds
+0052.989 (0) Table wpnc_commentmeta: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_commentmeta.table.gz - 0.6 KB)
+0052.993 (0) Table wpnc_comments: Total expected rows (approximate): 6
+0052.995 (0) Table wpnc_comments: Total rows added: 6 in 0.00 seconds
+0052.996 (0) Table wpnc_comments: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_comments.table.gz - 0.9 KB)
+0053.000 (0) Table wpnc_links: Total expected rows (approximate): 0
+0053.001 (0) Table wpnc_links: Total rows added: 0 in 0.00 seconds
+0053.001 (0) Table wpnc_links: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_links.table.gz - 0.4 KB)
+0053.003 (0) Table wpnc_postmeta: Total expected rows (approximate): 5193
+0053.254 (0) Table wpnc_postmeta: Total rows added: 5193 in 0.25 seconds
+0053.255 (0) Table wpnc_postmeta: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_postmeta.table.gz - 817 KB)
+0053.258 (0) Table wpnc_posts: Total expected rows (approximate): 826
+0053.346 (0) Table wpnc_posts: Total rows added: 826 in 0.09 seconds
+0053.347 (0) Table wpnc_posts: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_posts.table.gz - 241.4 KB)
+0053.352 (0) Table wpnc_term_relationships: Total expected rows (approximate): 172
+0053.354 (0) Table wpnc_term_relationships: Total rows added: 172 in 0.00 seconds
+0053.355 (0) Table wpnc_term_relationships: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_term_relationships.table.gz - 0.9 KB)
+0053.358 (0) Table wpnc_term_taxonomy: Total expected rows (approximate): 33
+0053.359 (0) Table wpnc_term_taxonomy: Total rows added: 33 in 0.00 seconds
+0053.360 (0) Table wpnc_term_taxonomy: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_term_taxonomy.table.gz - 0.7 KB)
+0053.366 (0) Table wpnc_termmeta: Total expected rows (approximate): 6
+0053.367 (0) Table wpnc_termmeta: Total rows added: 6 in 0.00 seconds
+0053.368 (0) Table wpnc_termmeta: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_termmeta.table.gz - 0.4 KB)
+0053.370 (0) Table wpnc_terms: Total expected rows (approximate): 33
+0053.371 (0) Table wpnc_terms: Total rows added: 33 in 0.00 seconds
+0053.372 (0) Table wpnc_terms: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_terms.table.gz - 0.8 KB)
+0053.374 (0) Table wpnc_wc_category_lookup: Total expected rows (approximate): 1
+0053.376 (0) Table wpnc_wc_category_lookup: Total rows added: 1 in 0.00 seconds
+0053.376 (0) Table wpnc_wc_category_lookup: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wc_category_lookup.table.gz - 0.3 KB)
+0053.380 (0) Table wpnc_wc_product_meta_lookup: Total expected rows (approximate): 0
+0053.381 (0) Table wpnc_wc_product_meta_lookup: Total rows added: 0 in 0.00 seconds
+0053.382 (0) Table wpnc_wc_product_meta_lookup: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wc_product_meta_lookup.table.gz - 0.5 KB)
+0053.385 (0) Table wpnc_wc_tax_rate_classes: Total expected rows (approximate): 2
+0053.388 (0) Table wpnc_wc_tax_rate_classes: Total rows added: 2 in 0.00 seconds
+0053.388 (0) Table wpnc_wc_tax_rate_classes: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wc_tax_rate_classes.table.gz - 0.4 KB)
+0053.392 (0) Table wpnc_woocommerce_order_itemmeta: Total expected rows (approximate): 0
+0053.394 (0) Table wpnc_woocommerce_order_itemmeta: Total rows added: 0 in 0.00 seconds
+0053.394 (0) Table wpnc_woocommerce_order_itemmeta: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_woocommerce_order_itemmeta.table.gz - 0.4 KB)
+0053.397 (0) Table wpnc_woocommerce_payment_tokenmeta: Total expected rows (approximate): 0
+0053.398 (0) Table wpnc_woocommerce_payment_tokenmeta: Total rows added: 0 in 0.00 seconds
+0053.399 (0) Table wpnc_woocommerce_payment_tokenmeta: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_woocommerce_payment_tokenmeta.table.gz - 0.4 KB)
+0053.402 (0) Table wpnc_yoast_seo_links: Total expected rows (approximate): 114
+0053.404 (0) Table wpnc_yoast_seo_links: Total rows added: 114 in 0.00 seconds
+0053.405 (0) Table wpnc_yoast_seo_links: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_yoast_seo_links.table.gz - 1.3 KB)
+0053.409 (0) Table wpnc_yoast_seo_meta: Total expected rows (approximate): 342
+0053.411 (0) Table wpnc_yoast_seo_meta: Total rows added: 342 in 0.00 seconds
+0053.411 (0) Table wpnc_yoast_seo_meta: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_yoast_seo_meta.table.gz - 1.2 KB)
+0053.414 (0) Table wpnc_content_tabs_ultimate_import: Total expected rows (approximate): 5
+0053.415 (0) Table wpnc_content_tabs_ultimate_import: Total rows added: 5 in 0.00 seconds
+0053.416 (0) Table wpnc_content_tabs_ultimate_import: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_content_tabs_ultimate_import.table.gz - 0.4 KB)
+0053.418 (0) Table wpnc_content_tabs_ultimate_list: Total expected rows (approximate): 0
+0053.419 (0) Table wpnc_content_tabs_ultimate_list: Total rows added: 0 in 0.00 seconds
+0053.420 (0) Table wpnc_content_tabs_ultimate_list: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_content_tabs_ultimate_list.table.gz - 0.3 KB)
+0053.422 (0) Table wpnc_content_tabs_ultimate_style: Total expected rows (approximate): 0
+0053.423 (0) Table wpnc_content_tabs_ultimate_style: Total rows added: 0 in 0.00 seconds
+0053.424 (0) Table wpnc_content_tabs_ultimate_style: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_content_tabs_ultimate_style.table.gz - 0.3 KB)
+0053.426 (0) Table wpnc_image_hover_ultimate_list: Total expected rows (approximate): 0
+0053.427 (0) Table wpnc_image_hover_ultimate_list: Total rows added: 0 in 0.00 seconds
+0053.428 (0) Table wpnc_image_hover_ultimate_list: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_image_hover_ultimate_list.table.gz - 0.3 KB)
+0053.431 (0) Table wpnc_image_hover_ultimate_style: Total expected rows (approximate): 0
+0053.432 (0) Table wpnc_image_hover_ultimate_style: Total rows added: 0 in 0.00 seconds
+0053.432 (0) Table wpnc_image_hover_ultimate_style: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_image_hover_ultimate_style.table.gz - 0.4 KB)
+0053.435 (0) Table wpnc_mailchimp_carts: Total expected rows (approximate): 0
+0053.436 (0) Table wpnc_mailchimp_carts: Total rows added: 0 in 0.00 seconds
+0053.437 (0) Table wpnc_mailchimp_carts: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_mailchimp_carts.table.gz - 0.3 KB)
+0053.440 (0) Table wpnc_mailchimp_jobs: Total expected rows (approximate): 0
+0053.441 (0) Table wpnc_mailchimp_jobs: Total rows added: 0 in 0.00 seconds
+0053.441 (0) Table wpnc_mailchimp_jobs: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_mailchimp_jobs.table.gz - 0.3 KB)
+0053.445 (0) Table wpnc_nf3_action_meta: Total expected rows (approximate): 90
+0053.447 (0) Table wpnc_nf3_action_meta: Total rows added: 90 in 0.00 seconds
+0053.447 (0) Table wpnc_nf3_action_meta: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_nf3_action_meta.table.gz - 1.7 KB)
+0053.450 (0) Table wpnc_nf3_actions: Total expected rows (approximate): 4
+0053.452 (0) Table wpnc_nf3_actions: Total rows added: 4 in 0.00 seconds
+0053.452 (0) Table wpnc_nf3_actions: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_nf3_actions.table.gz - 0.5 KB)
+0053.455 (0) Table wpnc_nf3_chunks: Total expected rows (approximate): 0
+0053.456 (0) Table wpnc_nf3_chunks: Total rows added: 0 in 0.00 seconds
+0053.457 (0) Table wpnc_nf3_chunks: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_nf3_chunks.table.gz - 0.3 KB)
+0053.459 (0) Table wpnc_nf3_field_meta: Total expected rows (approximate): 275
+0053.461 (0) Table wpnc_nf3_field_meta: Total rows added: 275 in 0.00 seconds
+0053.462 (0) Table wpnc_nf3_field_meta: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_nf3_field_meta.table.gz - 2.7 KB)
+0053.465 (0) Table wpnc_nf3_fields: Total expected rows (approximate): 4
+0053.466 (0) Table wpnc_nf3_fields: Total rows added: 4 in 0.00 seconds
+0053.467 (0) Table wpnc_nf3_fields: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_nf3_fields.table.gz - 0.6 KB)
+0053.470 (0) Table wpnc_nf3_form_meta: Total expected rows (approximate): 113
+0053.471 (0) Table wpnc_nf3_form_meta: Total rows added: 113 in 0.00 seconds
+0053.472 (0) Table wpnc_nf3_form_meta: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_nf3_form_meta.table.gz - 1.7 KB)
+0053.474 (0) Table wpnc_nf3_forms: Total expected rows (approximate): 1
+0053.476 (0) Table wpnc_nf3_forms: Total rows added: 1 in 0.00 seconds
+0053.476 (0) Table wpnc_nf3_forms: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_nf3_forms.table.gz - 0.5 KB)
+0053.479 (0) Table wpnc_nf3_object_meta: Total expected rows (approximate): 0
+0053.480 (0) Table wpnc_nf3_object_meta: Total rows added: 0 in 0.00 seconds
+0053.480 (0) Table wpnc_nf3_object_meta: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_nf3_object_meta.table.gz - 0.3 KB)
+0053.483 (0) Table wpnc_nf3_objects: Total expected rows (approximate): 0
+0053.484 (0) Table wpnc_nf3_objects: Total rows added: 0 in 0.00 seconds
+0053.484 (0) Table wpnc_nf3_objects: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_nf3_objects.table.gz - 0.3 KB)
+0053.486 (0) Table wpnc_nf3_relationships: Total expected rows (approximate): 0
+0053.487 (0) Table wpnc_nf3_relationships: Total rows added: 0 in 0.00 seconds
+0053.488 (0) Table wpnc_nf3_relationships: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_nf3_relationships.table.gz - 0.4 KB)
+0053.490 (0) Table wpnc_nf3_upgrades: Total expected rows (approximate): 1
+0053.492 (0) Table wpnc_nf3_upgrades: Total rows added: 1 in 0.00 seconds
+0053.492 (0) Table wpnc_nf3_upgrades: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_nf3_upgrades.table.gz - 3 KB)
+0053.495 (0) Table wpnc_oxi_div_import: Total expected rows (approximate): 11
+0053.496 (0) Table wpnc_oxi_div_import: Total rows added: 11 in 0.00 seconds
+0053.496 (0) Table wpnc_oxi_div_import: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_oxi_div_import.table.gz - 0.5 KB)
+0053.499 (0) Table wpnc_oxi_div_list: Total expected rows (approximate): 7
+0053.500 (0) Table wpnc_oxi_div_list: Total rows added: 7 in 0.00 seconds
+0053.500 (0) Table wpnc_oxi_div_list: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_oxi_div_list.table.gz - 0.5 KB)
+0053.503 (0) Table wpnc_oxi_div_style: Total expected rows (approximate): 2
+0053.505 (0) Table wpnc_oxi_div_style: Total rows added: 2 in 0.00 seconds
+0053.505 (0) Table wpnc_oxi_div_style: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_oxi_div_style.table.gz - 2.5 KB)
+0053.508 (0) Table wpnc_pmxe_exports: Total expected rows (approximate): 1
+0053.510 (0) Table wpnc_pmxe_exports: Total rows added: 1 in 0.00 seconds
+0053.510 (0) Table wpnc_pmxe_exports: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_pmxe_exports.table.gz - 5.1 KB)
+0053.513 (0) Table wpnc_pmxe_google_cats: Total expected rows (approximate): 5371
+0053.543 (0) Table wpnc_pmxe_google_cats: Total rows added: 5371 in 0.03 seconds
+0053.544 (0) Table wpnc_pmxe_google_cats: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_pmxe_google_cats.table.gz - 75.3 KB)
+0053.547 (0) Table wpnc_pmxe_posts: Total expected rows (approximate): 5
+0053.549 (0) Table wpnc_pmxe_posts: Total rows added: 5 in 0.00 seconds
+0053.549 (0) Table wpnc_pmxe_posts: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_pmxe_posts.table.gz - 0.4 KB)
+0053.551 (0) Table wpnc_pmxe_templates: Total expected rows (approximate): 1
+0053.553 (0) Table wpnc_pmxe_templates: Total rows added: 1 in 0.00 seconds
+0053.554 (0) Table wpnc_pmxe_templates: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_pmxe_templates.table.gz - 4.9 KB)
+0053.557 (0) Table wpnc_smush_dir_images: Total expected rows (approximate): 0
+0053.558 (0) Table wpnc_smush_dir_images: Total rows added: 0 in 0.00 seconds
+0053.558 (0) Table wpnc_smush_dir_images: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_smush_dir_images.table.gz - 0.4 KB)
+0053.561 (0) Table wpnc_tm_taskmeta: Total expected rows (approximate): 0
+0053.563 (0) Table wpnc_tm_taskmeta: Total rows added: 0 in 0.00 seconds
+0053.563 (0) Table wpnc_tm_taskmeta: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_tm_taskmeta.table.gz - 0.4 KB)
+0053.566 (0) Table wpnc_tm_tasks: Total expected rows (approximate): 0
+0053.567 (0) Table wpnc_tm_tasks: Total rows added: 0 in 0.00 seconds
+0053.567 (0) Table wpnc_tm_tasks: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_tm_tasks.table.gz - 0.4 KB)
+0053.570 (0) Table wpnc_vxcf_leads: Total expected rows (approximate): 0
+0053.571 (0) Table wpnc_vxcf_leads: Total rows added: 0 in 0.00 seconds
+0053.572 (0) Table wpnc_vxcf_leads: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_vxcf_leads.table.gz - 0.5 KB)
+0053.575 (0) Table wpnc_vxcf_leads_detail: Total expected rows (approximate): 0
+0053.576 (0) Table wpnc_vxcf_leads_detail: Total rows added: 0 in 0.00 seconds
+0053.576 (0) Table wpnc_vxcf_leads_detail: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_vxcf_leads_detail.table.gz - 0.4 KB)
+0053.579 (0) Table wpnc_vxcf_leads_notes: Total expected rows (approximate): 0
+0053.580 (0) Table wpnc_vxcf_leads_notes: Total rows added: 0 in 0.00 seconds
+0053.581 (0) Table wpnc_vxcf_leads_notes: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_vxcf_leads_notes.table.gz - 0.4 KB)
+0053.584 (0) Table wpnc_vxcf_mailchimp: Total expected rows (approximate): 1
+0053.585 (0) Table wpnc_vxcf_mailchimp: Total rows added: 1 in 0.00 seconds
+0053.585 (0) Table wpnc_vxcf_mailchimp: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_vxcf_mailchimp.table.gz - 0.5 KB)
+0053.588 (0) Table wpnc_vxcf_mailchimp_accounts: Total expected rows (approximate): 1
+0053.589 (0) Table wpnc_vxcf_mailchimp_accounts: Total rows added: 1 in 0.00 seconds
+0053.590 (0) Table wpnc_vxcf_mailchimp_accounts: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_vxcf_mailchimp_accounts.table.gz - 0.4 KB)
+0053.593 (0) Table wpnc_vxcf_mailchimp_log: Total expected rows (approximate): 0
+0053.594 (0) Table wpnc_vxcf_mailchimp_log: Total rows added: 0 in 0.00 seconds
+0053.594 (0) Table wpnc_vxcf_mailchimp_log: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_vxcf_mailchimp_log.table.gz - 0.4 KB)
+0053.597 (0) Table wpnc_wc_admin_note_actions: Total expected rows (approximate): 9
+0053.598 (0) Table wpnc_wc_admin_note_actions: Total rows added: 9 in 0.00 seconds
+0053.599 (0) Table wpnc_wc_admin_note_actions: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wc_admin_note_actions.table.gz - 0.9 KB)
+0053.601 (0) Table wpnc_wc_admin_notes: Total expected rows (approximate): 8
+0053.603 (0) Table wpnc_wc_admin_notes: Total rows added: 8 in 0.00 seconds
+0053.603 (0) Table wpnc_wc_admin_notes: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wc_admin_notes.table.gz - 1.2 KB)
+0053.606 (0) Table wpnc_wc_customer_lookup: Total expected rows (approximate): 0
+0053.607 (0) Table wpnc_wc_customer_lookup: Total rows added: 0 in 0.00 seconds
+0053.607 (0) Table wpnc_wc_customer_lookup: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wc_customer_lookup.table.gz - 0.5 KB)
+0053.610 (0) Table wpnc_wc_download_log: Total expected rows (approximate): 0
+0053.611 (0) Table wpnc_wc_download_log: Total rows added: 0 in 0.00 seconds
+0053.611 (0) Table wpnc_wc_download_log: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wc_download_log.table.gz - 0.4 KB)
+0053.614 (0) Table wpnc_wc_order_coupon_lookup: Total expected rows (approximate): 0
+0053.615 (0) Table wpnc_wc_order_coupon_lookup: Total rows added: 0 in 0.00 seconds
+0053.616 (0) Table wpnc_wc_order_coupon_lookup: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wc_order_coupon_lookup.table.gz - 0.4 KB)
+0053.618 (0) Table wpnc_wc_order_product_lookup: Total expected rows (approximate): 0
+0053.619 (0) Table wpnc_wc_order_product_lookup: Total rows added: 0 in 0.00 seconds
+0053.620 (0) Table wpnc_wc_order_product_lookup: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wc_order_product_lookup.table.gz - 0.4 KB)
+0053.623 (0) Table wpnc_wc_order_stats: Total expected rows (approximate): 0
+0053.624 (0) Table wpnc_wc_order_stats: Total rows added: 0 in 0.00 seconds
+0053.624 (0) Table wpnc_wc_order_stats: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wc_order_stats.table.gz - 0.5 KB)
+0053.627 (0) Table wpnc_wc_order_tax_lookup: Total expected rows (approximate): 0
+0053.628 (0) Table wpnc_wc_order_tax_lookup: Total rows added: 0 in 0.00 seconds
+0053.628 (0) Table wpnc_wc_order_tax_lookup: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wc_order_tax_lookup.table.gz - 0.4 KB)
+0053.631 (0) Table wpnc_wc_webhooks: Total expected rows (approximate): 0
+0053.632 (0) Table wpnc_wc_webhooks: Total rows added: 0 in 0.00 seconds
+0053.632 (0) Table wpnc_wc_webhooks: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wc_webhooks.table.gz - 0.5 KB)
+0053.635 (0) Table wpnc_wfblockediplog: Total expected rows (approximate): 1
+0053.636 (0) Table wpnc_wfblockediplog: Total rows added: 1 in 0.00 seconds
+0053.637 (0) Table wpnc_wfblockediplog: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wfblockediplog.table.gz - 0.4 KB)
+0053.638 (0) Table wpnc_wfblocks7: Total expected rows (approximate): 0
+0053.639 (0) Table wpnc_wfblocks7: Total rows added: 0 in 0.00 seconds
+0053.640 (0) Table wpnc_wfblocks7: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wfblocks7.table.gz - 0.4 KB)
+0053.641 (0) Table wpnc_wfconfig: Total expected rows (approximate): 251
+0053.657 (0) Table wpnc_wfconfig: Total rows added: 251 in 0.02 seconds
+0053.658 (0) Table wpnc_wfconfig: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wfconfig.table.gz - 363.8 KB)
+0053.661 (0) Table wpnc_wfcrawlers: Total expected rows (approximate): 13
+0053.662 (0) Table wpnc_wfcrawlers: Total rows added: 13 in 0.00 seconds
+0053.663 (0) Table wpnc_wfcrawlers: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wfcrawlers.table.gz - 0.6 KB)
+0053.666 (0) Table wpnc_wffilechanges: Total expected rows (approximate): 0
+0053.667 (0) Table wpnc_wffilechanges: Total rows added: 0 in 0.00 seconds
+0053.667 (0) Table wpnc_wffilechanges: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wffilechanges.table.gz - 0.3 KB)
+0053.670 (0) Table wpnc_wffilemods: Total expected rows (approximate): 17151
+0053.881 (0) Table wpnc_wffilemods: Total rows added: 17151 in 0.21 seconds
+0053.882 (0) Table wpnc_wffilemods: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wffilemods.table.gz - 1339.2 KB)
+0053.884 (0) Table wpnc_wfhits: Total expected rows (approximate): 20
+0053.889 (0) Table wpnc_wfhits: Total rows added: 20 in 0.00 seconds
+0053.889 (0) Table wpnc_wfhits: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wfhits.table.gz - 16.8 KB)
+0053.893 (0) Table wpnc_wfhoover: Total expected rows (approximate): 0
+0053.894 (0) Table wpnc_wfhoover: Total rows added: 0 in 0.00 seconds
+0053.894 (0) Table wpnc_wfhoover: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wfhoover.table.gz - 0.3 KB)
+0053.897 (0) Table wpnc_wfissues: Total expected rows (approximate): 28
+0053.901 (0) Table wpnc_wfissues: Total rows added: 28 in 0.00 seconds
+0053.902 (0) Table wpnc_wfissues: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wfissues.table.gz - 7.3 KB)
+0053.906 (0) Table wpnc_wfknownfilelist: Total expected rows (approximate): 17151
+0054.043 (0) Table wpnc_wfknownfilelist: Total rows added: 17151 in 0.14 seconds
+0054.048 (0) Table wpnc_wfknownfilelist: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wfknownfilelist.table.gz - 173.1 KB)
+0054.051 (0) Table wpnc_wflivetraffichuman: Total expected rows (approximate): 0
+0054.052 (0) Table wpnc_wflivetraffichuman: Total rows added: 0 in 0.00 seconds
+0054.052 (0) Table wpnc_wflivetraffichuman: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wflivetraffichuman.table.gz - 0.3 KB)
+0054.057 (0) Table wpnc_wflocs: Total expected rows (approximate): 0
+0054.058 (0) Table wpnc_wflocs: Total rows added: 0 in 0.00 seconds
+0054.059 (0) Table wpnc_wflocs: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wflocs.table.gz - 0.4 KB)
+0054.064 (0) Table wpnc_wflogins: Total expected rows (approximate): 8
+0054.066 (0) Table wpnc_wflogins: Total rows added: 8 in 0.00 seconds
+0054.067 (0) Table wpnc_wflogins: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wflogins.table.gz - 0.8 KB)
+0054.071 (0) Table wpnc_wfls_2fa_secrets: Total expected rows (approximate): 0
+0054.073 (0) Table wpnc_wfls_2fa_secrets: Total rows added: 0 in 0.00 seconds
+0054.074 (0) Table wpnc_wfls_2fa_secrets: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wfls_2fa_secrets.table.gz - 0.4 KB)
+0054.077 (0) Table wpnc_wfls_settings: Total expected rows (approximate): 17
+0054.079 (0) Table wpnc_wfls_settings: Total rows added: 19 in 0.00 seconds
+0054.079 (0) Table wpnc_wfls_settings: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wfls_settings.table.gz - 0.7 KB)
+0054.084 (0) Table wpnc_wfnotifications: Total expected rows (approximate): 2
+0054.088 (0) Table wpnc_wfnotifications: Total rows added: 2 in 0.00 seconds
+0054.089 (0) Table wpnc_wfnotifications: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wfnotifications.table.gz - 0.6 KB)
+0054.093 (0) Table wpnc_wfpendingissues: Total expected rows (approximate): 0
+0054.095 (0) Table wpnc_wfpendingissues: Total rows added: 0 in 0.00 seconds
+0054.095 (0) Table wpnc_wfpendingissues: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wfpendingissues.table.gz - 0.4 KB)
+0054.100 (0) Table wpnc_wfreversecache: Total expected rows (approximate): 0
+0054.101 (0) Table wpnc_wfreversecache: Total rows added: 0 in 0.00 seconds
+0054.102 (0) Table wpnc_wfreversecache: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wfreversecache.table.gz - 0.3 KB)
+0054.106 (0) Table wpnc_wfsnipcache: Total expected rows (approximate): 0
+0054.107 (0) Table wpnc_wfsnipcache: Total rows added: 0 in 0.00 seconds
+0054.110 (0) Table wpnc_wfsnipcache: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wfsnipcache.table.gz - 0.4 KB)
+0054.115 (0) Table wpnc_wfstatus: Total expected rows (approximate): 953
+0054.129 (0) Table wpnc_wfstatus: Total rows added: 953 in 0.01 seconds
+0054.130 (0) Table wpnc_wfstatus: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wfstatus.table.gz - 14.7 KB)
+0054.134 (0) Table wpnc_wftrafficrates: Total expected rows (approximate): 0
+0054.136 (0) Table wpnc_wftrafficrates: Total rows added: 0 in 0.00 seconds
+0054.137 (0) Table wpnc_wftrafficrates: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wftrafficrates.table.gz - 0.3 KB)
+0054.141 (0) Table wpnc_woocommerce_api_keys: Total expected rows (approximate): 0
+0054.142 (0) Table wpnc_woocommerce_api_keys: Total rows added: 0 in 0.00 seconds
+0054.143 (0) Table wpnc_woocommerce_api_keys: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_woocommerce_api_keys.table.gz - 0.4 KB)
+0054.147 (0) Table wpnc_woocommerce_attribute_taxonomies: Total expected rows (approximate): 0
+0054.148 (0) Table wpnc_woocommerce_attribute_taxonomies: Total rows added: 0 in 0.00 seconds
+0054.149 (0) Table wpnc_woocommerce_attribute_taxonomies: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_woocommerce_attribute_taxonomies.table.gz - 0.4 KB)
+0054.152 (0) Table wpnc_woocommerce_downloadable_product_permissions: Total expected rows (approximate): 0
+0054.155 (0) Table wpnc_woocommerce_downloadable_product_permissions: Total rows added: 0 in 0.00 seconds
+0054.156 (0) Table wpnc_woocommerce_downloadable_product_permissions: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_woocommerce_downloadable_product_permissions.table.gz - 0.5 KB)
+0054.160 (0) Table wpnc_woocommerce_log: Total expected rows (approximate): 0
+0054.162 (0) Table wpnc_woocommerce_log: Total rows added: 0 in 0.00 seconds
+0054.162 (0) Table wpnc_woocommerce_log: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_woocommerce_log.table.gz - 0.4 KB)
+0054.167 (0) Table wpnc_woocommerce_order_items: Total expected rows (approximate): 0
+0054.168 (0) Table wpnc_woocommerce_order_items: Total rows added: 0 in 0.00 seconds
+0054.169 (0) Table wpnc_woocommerce_order_items: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_woocommerce_order_items.table.gz - 0.4 KB)
+0054.173 (0) Table wpnc_woocommerce_payment_tokens: Total expected rows (approximate): 0
+0054.175 (0) Table wpnc_woocommerce_payment_tokens: Total rows added: 0 in 0.00 seconds
+0054.176 (0) Table wpnc_woocommerce_payment_tokens: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_woocommerce_payment_tokens.table.gz - 0.4 KB)
+0054.180 (0) Table wpnc_woocommerce_sessions: Total expected rows (approximate): 0
+0054.182 (0) Table wpnc_woocommerce_sessions: Total rows added: 0 in 0.00 seconds
+0054.183 (0) Table wpnc_woocommerce_sessions: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_woocommerce_sessions.table.gz - 0.4 KB)
+0054.187 (0) Table wpnc_woocommerce_shipping_zone_locations: Total expected rows (approximate): 0
+0054.189 (0) Table wpnc_woocommerce_shipping_zone_locations: Total rows added: 0 in 0.00 seconds
+0054.190 (0) Table wpnc_woocommerce_shipping_zone_locations: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_woocommerce_shipping_zone_locations.table.gz - 0.4 KB)
+0054.194 (0) Table wpnc_woocommerce_shipping_zone_methods: Total expected rows (approximate): 0
+0054.196 (0) Table wpnc_woocommerce_shipping_zone_methods: Total rows added: 0 in 0.00 seconds
+0054.197 (0) Table wpnc_woocommerce_shipping_zone_methods: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_woocommerce_shipping_zone_methods.table.gz - 0.4 KB)
+0054.201 (0) Table wpnc_woocommerce_shipping_zones: Total expected rows (approximate): 0
+0054.203 (0) Table wpnc_woocommerce_shipping_zones: Total rows added: 0 in 0.00 seconds
+0054.203 (0) Table wpnc_woocommerce_shipping_zones: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_woocommerce_shipping_zones.table.gz - 0.3 KB)
+0054.208 (0) Table wpnc_woocommerce_tax_rate_locations: Total expected rows (approximate): 0
+0054.210 (0) Table wpnc_woocommerce_tax_rate_locations: Total rows added: 0 in 0.00 seconds
+0054.211 (0) Table wpnc_woocommerce_tax_rate_locations: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_woocommerce_tax_rate_locations.table.gz - 0.4 KB)
+0054.214 (0) Table wpnc_woocommerce_tax_rates: Total expected rows (approximate): 0
+0054.216 (0) Table wpnc_woocommerce_tax_rates: Total rows added: 0 in 0.00 seconds
+0054.217 (0) Table wpnc_woocommerce_tax_rates: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_woocommerce_tax_rates.table.gz - 0.4 KB)
+0054.222 (0) Table wpnc_wpforms_tasks_meta: Total expected rows (approximate): 2
+0054.224 (0) Table wpnc_wpforms_tasks_meta: Total rows added: 2 in 0.00 seconds
+0054.225 (0) Table wpnc_wpforms_tasks_meta: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wpforms_tasks_meta.table.gz - 0.4 KB)
+0054.229 (0) Table wpnc_yikes_easy_mc_forms: Total expected rows (approximate): 0
+0054.232 (0) Table wpnc_yikes_easy_mc_forms: Total rows added: 0 in 0.00 seconds
+0054.233 (0) Table wpnc_yikes_easy_mc_forms: finishing file (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_yikes_easy_mc_forms.table.gz - 0.4 KB)
+0054.235 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_options.table.gz (1/101): adding to final database dump
+0054.274 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_users.table.gz (2/101): adding to final database dump
+0054.275 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_usermeta.table.gz (3/101): adding to final database dump
+0054.277 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_actionscheduler_actions.table.gz (4/101): adding to final database dump
+0054.284 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_actionscheduler_claims.table.gz (5/101): adding to final database dump
+0054.284 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_actionscheduler_groups.table.gz (6/101): adding to final database dump
+0054.285 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_actionscheduler_logs.table.gz (7/101): adding to final database dump
+0054.299 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_commentmeta.table.gz (8/101): adding to final database dump
+0054.300 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_comments.table.gz (9/101): adding to final database dump
+0054.303 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_links.table.gz (10/101): adding to final database dump
+0054.304 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_postmeta.table.gz (11/101): adding to final database dump
+0054.482 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_posts.table.gz (12/101): adding to final database dump
+0054.528 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_term_relationships.table.gz (13/101): adding to final database dump
+0054.529 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_term_taxonomy.table.gz (14/101): adding to final database dump
+0054.529 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_termmeta.table.gz (15/101): adding to final database dump
+0054.530 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_terms.table.gz (16/101): adding to final database dump
+0054.530 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wc_category_lookup.table.gz (17/101): adding to final database dump
+0054.531 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wc_product_meta_lookup.table.gz (18/101): adding to final database dump
+0054.531 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wc_tax_rate_classes.table.gz (19/101): adding to final database dump
+0054.531 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_woocommerce_order_itemmeta.table.gz (20/101): adding to final database dump
+0054.532 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_woocommerce_payment_tokenmeta.table.gz (21/101): adding to final database dump
+0054.532 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_yoast_seo_links.table.gz (22/101): adding to final database dump
+0054.533 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_yoast_seo_meta.table.gz (23/101): adding to final database dump
+0054.533 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_content_tabs_ultimate_import.table.gz (24/101): adding to final database dump
+0054.534 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_content_tabs_ultimate_list.table.gz (25/101): adding to final database dump
+0054.534 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_content_tabs_ultimate_style.table.gz (26/101): adding to final database dump
+0054.534 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_image_hover_ultimate_list.table.gz (27/101): adding to final database dump
+0054.535 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_image_hover_ultimate_style.table.gz (28/101): adding to final database dump
+0054.535 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_mailchimp_carts.table.gz (29/101): adding to final database dump
+0054.536 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_mailchimp_jobs.table.gz (30/101): adding to final database dump
+0054.536 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_nf3_action_meta.table.gz (31/101): adding to final database dump
+0054.537 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_nf3_actions.table.gz (32/101): adding to final database dump
+0054.537 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_nf3_chunks.table.gz (33/101): adding to final database dump
+0054.537 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_nf3_field_meta.table.gz (34/101): adding to final database dump
+0054.538 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_nf3_fields.table.gz (35/101): adding to final database dump
+0054.539 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_nf3_form_meta.table.gz (36/101): adding to final database dump
+0054.539 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_nf3_forms.table.gz (37/101): adding to final database dump
+0054.540 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_nf3_object_meta.table.gz (38/101): adding to final database dump
+0054.540 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_nf3_objects.table.gz (39/101): adding to final database dump
+0054.541 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_nf3_relationships.table.gz (40/101): adding to final database dump
+0054.541 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_nf3_upgrades.table.gz (41/101): adding to final database dump
+0054.542 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_oxi_div_import.table.gz (42/101): adding to final database dump
+0054.542 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_oxi_div_list.table.gz (43/101): adding to final database dump
+0054.543 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_oxi_div_style.table.gz (44/101): adding to final database dump
+0054.543 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_pmxe_exports.table.gz (45/101): adding to final database dump
+0054.545 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_pmxe_google_cats.table.gz (46/101): adding to final database dump
+0054.561 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_pmxe_posts.table.gz (47/101): adding to final database dump
+0054.562 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_pmxe_templates.table.gz (48/101): adding to final database dump
+0054.563 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_smush_dir_images.table.gz (49/101): adding to final database dump
+0054.564 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_tm_taskmeta.table.gz (50/101): adding to final database dump
+0054.564 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_tm_tasks.table.gz (51/101): adding to final database dump
+0054.565 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_vxcf_leads.table.gz (52/101): adding to final database dump
+0054.565 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_vxcf_leads_detail.table.gz (53/101): adding to final database dump
+0054.565 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_vxcf_leads_notes.table.gz (54/101): adding to final database dump
+0054.566 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_vxcf_mailchimp.table.gz (55/101): adding to final database dump
+0054.567 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_vxcf_mailchimp_accounts.table.gz (56/101): adding to final database dump
+0054.567 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_vxcf_mailchimp_log.table.gz (57/101): adding to final database dump
+0054.568 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wc_admin_note_actions.table.gz (58/101): adding to final database dump
+0054.568 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wc_admin_notes.table.gz (59/101): adding to final database dump
+0054.568 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wc_customer_lookup.table.gz (60/101): adding to final database dump
+0054.569 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wc_download_log.table.gz (61/101): adding to final database dump
+0054.569 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wc_order_coupon_lookup.table.gz (62/101): adding to final database dump
+0054.570 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wc_order_product_lookup.table.gz (63/101): adding to final database dump
+0054.570 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wc_order_stats.table.gz (64/101): adding to final database dump
+0054.570 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wc_order_tax_lookup.table.gz (65/101): adding to final database dump
+0054.571 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wc_webhooks.table.gz (66/101): adding to final database dump
+0054.571 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wfblockediplog.table.gz (67/101): adding to final database dump
+0054.572 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wfblocks7.table.gz (68/101): adding to final database dump
+0054.572 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wfconfig.table.gz (69/101): adding to final database dump
+0054.589 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wfcrawlers.table.gz (70/101): adding to final database dump
+0054.590 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wffilechanges.table.gz (71/101): adding to final database dump
+0054.590 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wffilemods.table.gz (72/101): adding to final database dump
+0054.686 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wfhits.table.gz (73/101): adding to final database dump
+0054.691 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wfhoover.table.gz (74/101): adding to final database dump
+0054.691 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wfissues.table.gz (75/101): adding to final database dump
+0054.693 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wfknownfilelist.table.gz (76/101): adding to final database dump
+0054.726 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wflivetraffichuman.table.gz (77/101): adding to final database dump
+0054.727 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wflocs.table.gz (78/101): adding to final database dump
+0054.727 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wflogins.table.gz (79/101): adding to final database dump
+0054.728 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wfls_2fa_secrets.table.gz (80/101): adding to final database dump
+0054.728 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wfls_settings.table.gz (81/101): adding to final database dump
+0054.728 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wfnotifications.table.gz (82/101): adding to final database dump
+0054.729 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wfpendingissues.table.gz (83/101): adding to final database dump
+0054.729 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wfreversecache.table.gz (84/101): adding to final database dump
+0054.730 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wfsnipcache.table.gz (85/101): adding to final database dump
+0054.730 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wfstatus.table.gz (86/101): adding to final database dump
+0054.732 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wftrafficrates.table.gz (87/101): adding to final database dump
+0054.733 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_woocommerce_api_keys.table.gz (88/101): adding to final database dump
+0054.733 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_woocommerce_attribute_taxonomies.table.gz (89/101): adding to final database dump
+0054.734 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_woocommerce_downloadable_product_permissions.table.gz (90/101): adding to final database dump
+0054.734 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_woocommerce_log.table.gz (91/101): adding to final database dump
+0054.735 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_woocommerce_order_items.table.gz (92/101): adding to final database dump
+0054.735 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_woocommerce_payment_tokens.table.gz (93/101): adding to final database dump
+0054.736 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_woocommerce_sessions.table.gz (94/101): adding to final database dump
+0054.736 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_woocommerce_shipping_zone_locations.table.gz (95/101): adding to final database dump
+0054.737 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_woocommerce_shipping_zone_methods.table.gz (96/101): adding to final database dump
+0054.737 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_woocommerce_shipping_zones.table.gz (97/101): adding to final database dump
+0054.737 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_woocommerce_tax_rate_locations.table.gz (98/101): adding to final database dump
+0054.738 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_woocommerce_tax_rates.table.gz (99/101): adding to final database dump
+0054.739 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_wpforms_tasks_meta.table.gz (100/101): adding to final database dump
+0054.739 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db-table-wpnc_yikes_easy_mc_forms.table.gz (101/101): adding to final database dump
+0054.740 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db.gz: finished writing out complete database file (3312 KB)
+0054.779 (0) Total database tables backed up: 101 (backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db.gz, size: 3418770, sha1: 26a0747bfc0c9a021d40a7bf48a8949846199628, sha256: c70740fbc7d73860aebffc6d14ca22120b7570571ace34695ceac8bc414db984)
+0054.783 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0054.783 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0054.783 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0054.784 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-others.zip: others: This file has not yet been successfully uploaded: will queue
+0054.784 (0) backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db.gz: db: This file has not yet been successfully uploaded: will queue
+0054.784 (0) Saving backup history. Total backup size: 116.9 MB
+0054.786 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0054.787 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0054.788 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-81fe1db220cc08ae3445cc27c405217e)
+0058.960 (0) Google Drive: quota usage: used=2274.8 MB, total=15360 MB, available=13085.2 MB
+0058.960 (0) Google Drive: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip: Attempting to upload to Google Drive (into folder id: 1vxTrYOnFPeY3KL0v9JfOyw2zn9moHILh)
+0060.191 (0) Googledrive chunked upload: 1.2 % uploaded (1048576)
+0060.883 (0) Googledrive chunked upload: 2.4 % uploaded (2097152)
+0061.256 (0) Googledrive chunked upload: 3.6 % uploaded (3145728)
+0061.718 (0) Googledrive chunked upload: 4.8 % uploaded (4194304)
+0062.561 (0) Googledrive chunked upload: 5.9 % uploaded (5242880)
+0063.360 (0) Googledrive chunked upload: 7.1 % uploaded (6291456)
+0064.051 (0) Googledrive chunked upload: 8.3 % uploaded (7340032)
+0064.616 (0) Googledrive chunked upload: 9.5 % uploaded (8388608)
+0065.592 (0) Googledrive chunked upload: 10.7 % uploaded (9437184)
+0066.336 (0) Googledrive chunked upload: 11.9 % uploaded (10485760)
+0067.008 (0) Googledrive chunked upload: 13.1 % uploaded (11534336)
+0067.959 (0) Googledrive chunked upload: 14.3 % uploaded (12582912)
+0068.713 (0) Googledrive chunked upload: 15.5 % uploaded (13631488)
+0069.422 (0) Googledrive chunked upload: 16.7 % uploaded (14680064)
+0070.153 (0) Googledrive chunked upload: 17.8 % uploaded (15728640)
+0070.839 (0) Googledrive chunked upload: 19 % uploaded (16777216)
+0071.570 (0) Googledrive chunked upload: 20.2 % uploaded (17825792)
+0072.215 (0) Googledrive chunked upload: 21.4 % uploaded (18874368)
+0072.869 (0) Googledrive chunked upload: 22.6 % uploaded (19922944)
+0073.707 (0) Googledrive chunked upload: 23.8 % uploaded (20971520)
+0074.406 (0) Googledrive chunked upload: 25 % uploaded (22020096)
+0075.356 (0) Googledrive chunked upload: 26.2 % uploaded (23068672)
+0076.061 (0) Googledrive chunked upload: 27.4 % uploaded (24117248)
+0076.643 (0) Googledrive chunked upload: 28.6 % uploaded (25165824)
+0077.350 (0) Googledrive chunked upload: 29.7 % uploaded (26214400)
+0078.009 (0) Googledrive chunked upload: 30.9 % uploaded (27262976)
+0078.953 (0) Googledrive chunked upload: 32.1 % uploaded (28311552)
+0079.989 (0) Googledrive chunked upload: 33.3 % uploaded (29360128)
+0080.921 (0) Googledrive chunked upload: 34.5 % uploaded (30408704)
+0081.717 (0) Googledrive chunked upload: 35.7 % uploaded (31457280)
+0082.505 (0) Googledrive chunked upload: 36.9 % uploaded (32505856)
+0083.203 (0) Googledrive chunked upload: 38.1 % uploaded (33554432)
+0084.246 (0) Googledrive chunked upload: 39.3 % uploaded (34603008)
+0085.250 (0) Googledrive chunked upload: 40.4 % uploaded (35651584)
+0086.385 (0) Googledrive chunked upload: 41.6 % uploaded (36700160)
+0087.918 (0) Googledrive chunked upload: 42.8 % uploaded (37748736)
+0089.729 (0) Googledrive chunked upload: 44 % uploaded (38797312)
+0091.859 (0) Googledrive chunked upload: 45.2 % uploaded (39845888)
+0093.595 (0) Googledrive chunked upload: 46.4 % uploaded (40894464)
+0095.348 (0) Googledrive chunked upload: 47.6 % uploaded (41943040)
+0096.902 (0) Googledrive chunked upload: 48.8 % uploaded (42991616)
+0098.309 (0) Googledrive chunked upload: 50 % uploaded (44040192)
+0099.830 (0) Googledrive chunked upload: 51.2 % uploaded (45088768)
+0100.717 (0) Googledrive chunked upload: 52.3 % uploaded (46137344)
+0101.951 (0) Googledrive chunked upload: 53.5 % uploaded (47185920)
+0102.754 (0) Googledrive chunked upload: 54.7 % uploaded (48234496)
+0104.038 (0) Googledrive chunked upload: 55.9 % uploaded (49283072)
+0105.767 (0) Googledrive chunked upload: 57.1 % uploaded (50331648)
+0106.817 (0) Googledrive chunked upload: 58.3 % uploaded (51380224)
+0107.916 (0) Googledrive chunked upload: 59.5 % uploaded (52428800)
+0108.649 (0) Googledrive chunked upload: 60.7 % uploaded (53477376)
+0109.545 (0) Googledrive chunked upload: 61.9 % uploaded (54525952)
+0110.360 (0) Googledrive chunked upload: 63 % uploaded (55574528)
+0111.150 (0) Googledrive chunked upload: 64.2 % uploaded (56623104)
+0112.028 (0) Googledrive chunked upload: 65.4 % uploaded (57671680)
+0112.722 (0) Googledrive chunked upload: 66.6 % uploaded (58720256)
+0113.402 (0) Googledrive chunked upload: 67.8 % uploaded (59768832)
+0114.545 (0) Googledrive chunked upload: 69 % uploaded (60817408)
+0115.328 (0) Googledrive chunked upload: 70.2 % uploaded (61865984)
+0115.982 (0) Googledrive chunked upload: 71.4 % uploaded (62914560)
+0116.994 (0) Googledrive chunked upload: 72.6 % uploaded (63963136)
+0118.031 (0) Googledrive chunked upload: 73.8 % uploaded (65011712)
+0118.952 (0) Googledrive chunked upload: 74.9 % uploaded (66060288)
+0119.827 (0) Googledrive chunked upload: 76.1 % uploaded (67108864)
+0120.939 (0) Googledrive chunked upload: 77.3 % uploaded (68157440)
+0121.798 (0) Googledrive chunked upload: 78.5 % uploaded (69206016)
+0122.727 (0) Googledrive chunked upload: 79.7 % uploaded (70254592)
+0124.045 (0) Googledrive chunked upload: 80.9 % uploaded (71303168)
+0125.161 (0) Googledrive chunked upload: 82.1 % uploaded (72351744)
+0126.179 (0) Googledrive chunked upload: 83.3 % uploaded (73400320)
+0127.292 (0) Googledrive chunked upload: 84.5 % uploaded (74448896)
+0128.153 (0) Googledrive chunked upload: 85.7 % uploaded (75497472)
+0128.949 (0) Googledrive chunked upload: 86.8 % uploaded (76546048)
+0130.165 (0) Googledrive chunked upload: 88 % uploaded (77594624)
+0130.690 (0) Googledrive chunked upload: 89.2 % uploaded (78643200)
+0131.155 (0) Googledrive chunked upload: 90.4 % uploaded (79691776)
+0131.658 (0) Googledrive chunked upload: 91.6 % uploaded (80740352)
+0132.120 (0) Googledrive chunked upload: 92.8 % uploaded (81788928)
+0132.589 (0) Googledrive chunked upload: 94 % uploaded (82837504)
+0133.064 (0) Googledrive chunked upload: 95.2 % uploaded (83886080)
+0133.538 (0) Googledrive chunked upload: 96.4 % uploaded (84934656)
+0134.009 (0) Googledrive chunked upload: 97.5 % uploaded (85983232)
+0134.507 (0) Googledrive chunked upload: 98.7 % uploaded (87031808)
+0134.972 (0) Googledrive chunked upload: 99.9 % uploaded (88080384)
+0139.182 (0) Googledrive chunked upload: 100 % uploaded (88080384)
+0139.184 (0) Google Drive: OK: Archive backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip uploaded in 80.22 seconds
+0139.185 (0) Recording as successfully uploaded: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip
+0139.207 (0) Deleting local file: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-plugins.zip: OK
+0139.792 (0) Google Drive: quota usage: used=2358.8 MB, total=15360 MB, available=13001.2 MB
+0139.793 (0) Google Drive: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-themes.zip: Attempting to upload to Google Drive (into folder id: 1vxTrYOnFPeY3KL0v9JfOyw2zn9moHILh)
+0141.158 (0) Googledrive chunked upload: 26.5 % uploaded (1048576)
+0141.613 (0) Googledrive chunked upload: 52.9 % uploaded (2097152)
+0142.092 (0) Googledrive chunked upload: 79.4 % uploaded (3145728)
+0144.450 (0) Googledrive chunked upload: 100 % uploaded (3145728)
+0144.451 (0) Google Drive: OK: Archive backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-themes.zip uploaded in 4.66 seconds
+0144.452 (0) Recording as successfully uploaded: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-themes.zip
+0144.454 (0) Deleting local file: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-themes.zip: OK
+0145.054 (0) Google Drive: quota usage: used=2362.6 MB, total=15360 MB, available=12997.4 MB
+0145.055 (0) Google Drive: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-uploads.zip: Attempting to upload to Google Drive (into folder id: 1vxTrYOnFPeY3KL0v9JfOyw2zn9moHILh)
+0146.319 (0) Googledrive chunked upload: 4.3 % uploaded (1048576)
+0146.794 (0) Googledrive chunked upload: 8.6 % uploaded (2097152)
+0147.270 (0) Googledrive chunked upload: 12.8 % uploaded (3145728)
+0147.752 (0) Googledrive chunked upload: 17.1 % uploaded (4194304)
+0148.229 (0) Googledrive chunked upload: 21.4 % uploaded (5242880)
+0148.704 (0) Googledrive chunked upload: 25.7 % uploaded (6291456)
+0149.176 (0) Googledrive chunked upload: 30 % uploaded (7340032)
+0149.637 (0) Googledrive chunked upload: 34.3 % uploaded (8388608)
+0150.093 (0) Googledrive chunked upload: 38.5 % uploaded (9437184)
+0150.555 (0) Googledrive chunked upload: 42.8 % uploaded (10485760)
+0151.049 (0) Googledrive chunked upload: 47.1 % uploaded (11534336)
+0151.523 (0) Googledrive chunked upload: 51.4 % uploaded (12582912)
+0151.985 (0) Googledrive chunked upload: 55.7 % uploaded (13631488)
+0152.479 (0) Googledrive chunked upload: 59.9 % uploaded (14680064)
+0153.105 (0) Googledrive chunked upload: 64.2 % uploaded (15728640)
+0153.559 (0) Googledrive chunked upload: 68.5 % uploaded (16777216)
+0154.028 (0) Googledrive chunked upload: 72.8 % uploaded (17825792)
+0154.489 (0) Googledrive chunked upload: 77.1 % uploaded (18874368)
+0154.957 (0) Googledrive chunked upload: 81.4 % uploaded (19922944)
+0155.426 (0) Googledrive chunked upload: 85.6 % uploaded (20971520)
+0155.886 (0) Googledrive chunked upload: 89.9 % uploaded (22020096)
+0156.358 (0) Googledrive chunked upload: 94.2 % uploaded (23068672)
+0156.837 (0) Googledrive chunked upload: 98.5 % uploaded (24117248)
+0159.044 (0) Googledrive chunked upload: 100 % uploaded (24117248)
+0159.045 (0) Google Drive: OK: Archive backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-uploads.zip uploaded in 13.99 seconds
+0159.046 (0) Recording as successfully uploaded: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-uploads.zip
+0159.049 (0) Deleting local file: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-uploads.zip: OK
+0159.565 (0) Google Drive: quota usage: used=2386 MB, total=15360 MB, available=12974 MB
+0159.566 (0) Google Drive: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-others.zip: Attempting to upload to Google Drive (into folder id: 1vxTrYOnFPeY3KL0v9JfOyw2zn9moHILh)
+0160.722 (0) Googledrive chunked upload: 41.6 % uploaded (1048576)
+0161.196 (0) Googledrive chunked upload: 83.2 % uploaded (2097152)
+0163.404 (0) Googledrive chunked upload: 100 % uploaded (2097152)
+0163.407 (0) Google Drive: OK: Archive backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-others.zip uploaded in 3.84 seconds
+0163.408 (0) Recording as successfully uploaded: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-others.zip
+0163.410 (0) Deleting local file: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-others.zip: OK
+0163.970 (0) Google Drive: quota usage: used=2388.4 MB, total=15360 MB, available=12971.6 MB
+0163.971 (0) Google Drive: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db.gz: Attempting to upload to Google Drive (into folder id: 1vxTrYOnFPeY3KL0v9JfOyw2zn9moHILh)
+0165.121 (0) Googledrive chunked upload: 30.7 % uploaded (1048576)
+0165.596 (0) Googledrive chunked upload: 61.3 % uploaded (2097152)
+0166.076 (0) Googledrive chunked upload: 92 % uploaded (3145728)
+0168.284 (0) Googledrive chunked upload: 100 % uploaded (3145728)
+0168.286 (0) Google Drive: OK: Archive backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db.gz uploaded in 4.31 seconds
+0168.296 (0) Recording as successfully uploaded: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db.gz
+0168.300 (0) Deleting local file: backup_2020-04-18-0712_Fun_Bahasa_dea81d0702ca-db.gz: OK
+0168.304 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0168.306 (0) Number of backup sets in history: 5; groups (db): 1
+0168.307 (0) Examining (for databases) backup set with group_id=0, nonce=dea81d0702ca, datestamp=1587193936 (Apr 18 2020 07:12:16)
+0168.307 (0) This backup set is the backup set just made, so will not be deleted.
+0168.307 (0) Examining (for databases) backup set with group_id=0, nonce=3651af3655aa, datestamp=1587107525 (Apr 17 2020 07:12:05)
+0168.307 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0168.308 (0) Examining (for databases) backup set with group_id=0, nonce=fcf9e18a450b, datestamp=1587021037 (Apr 16 2020 07:10:37)
+0168.308 (0) 1587021037: db: this set includes a database (backup_2020-04-16-0710_Fun_Bahasa_fcf9e18a450b-db.gz); db count is now 2
+0168.308 (0) 1587021037: db: over retain limit (2); will delete this database
+0168.308 (0) Delete file: backup_2020-04-16-0710_Fun_Bahasa_fcf9e18a450b-db.gz, service=googledrive
+0170.421 (0) Google Drive: backup_2020-04-16-0710_Fun_Bahasa_fcf9e18a450b-db.gz: Deletion successful
+0170.423 (0) This backup set is now empty; will remove from history
+0170.424 (0) Deleting log file (log.fcf9e18a450b.txt)
+0170.425 (0) Examining (for databases) backup set with group_id=0, nonce=3ca6a9da0d40, datestamp=1586589131 (Apr 11 2020 07:12:11)
+0170.425 (0) Examining (for databases) backup set with group_id=0, nonce=dd77ba9d1e27, datestamp=1585984235 (Apr 04 2020 07:10:35)
+0170.425 (0) Number of backup sets in history: 4; groups (files): 1
+0170.425 (0) Examining (for files) backup set with nonce=dea81d0702ca, datestamp=1587193936 (Apr 18 2020 07:12:16)
+0170.425 (0) This backup set is the backup set just made, so will not be deleted.
+0170.426 (0) This backup set is the backup set just made, so will not be deleted.
+0170.426 (0) This backup set is the backup set just made, so will not be deleted.
+0170.426 (0) This backup set is the backup set just made, so will not be deleted.
+0170.426 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0170.427 (0) Examining (for files) backup set with nonce=3651af3655aa, datestamp=1587107525 (Apr 17 2020 07:12:05)
+0170.427 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0170.427 (0) Examining (for files) backup set with nonce=3ca6a9da0d40, datestamp=1586589131 (Apr 11 2020 07:12:11)
+0170.427 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0170.427 (0) Examining (for files) backup set with nonce=dd77ba9d1e27, datestamp=1585984235 (Apr 04 2020 07:10:35)
+0170.427 (0) plugins: over retain limit (2); will delete this file entity
+0170.427 (0) themes: over retain limit (2); will delete this file entity
+0170.427 (0) uploads: over retain limit (2); will delete this file entity
+0170.427 (0) others: over retain limit (2); will delete this file entity
+0170.428 (0) Delete file: backup_2020-04-04-0710_Fun_Bahasa_dd77ba9d1e27-plugins.zip, service=googledrive
+0170.428 (0) Delete file: backup_2020-04-04-0710_Fun_Bahasa_dd77ba9d1e27-themes.zip, service=googledrive
+0170.429 (0) Delete file: backup_2020-04-04-0710_Fun_Bahasa_dd77ba9d1e27-uploads.zip, service=googledrive
+0170.429 (0) Delete file: backup_2020-04-04-0710_Fun_Bahasa_dd77ba9d1e27-others.zip, service=googledrive
+0171.937 (0) Google Drive: backup_2020-04-04-0710_Fun_Bahasa_dd77ba9d1e27-others.zip: Deletion successful
+0172.865 (0) Google Drive: backup_2020-04-04-0710_Fun_Bahasa_dd77ba9d1e27-uploads.zip: Deletion successful
+0173.786 (0) Google Drive: backup_2020-04-04-0710_Fun_Bahasa_dd77ba9d1e27-themes.zip: Deletion successful
+0174.525 (0) Google Drive: backup_2020-04-04-0710_Fun_Bahasa_dd77ba9d1e27-plugins.zip: Deletion successful
+0174.526 (0) This backup set is now empty; will remove from history
+0174.527 (0) Deleting log file (log.dd77ba9d1e27.txt)
+0174.528 (0) Retain: saving new backup history (sets now: 3) and finishing retain operation
+0174.531 (0) Resume backup (dea81d0702ca, 0): finish run
+0174.532 (0) Decremented the semaphore (fd) by 1
+0174.533 (0) Semaphore (fd) unlocked
+0174.533 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0174.536 (0) Fetching RSS news feed
+0174.946 (0) Fetched RSS news feed; result is a: SimplePie
+0175.130 (0) Sending email ('Files and database (Full backup)') report (attachments: 0, size: 0 KB) to: admin...
+0175.136 (0) The backup apparently succeeded and is now complete

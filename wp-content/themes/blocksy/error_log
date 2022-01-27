@@ -1,0 +1,24 @@
+[28-Jun-2021 22:34:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/funbahas/public_html/wp-content/themes/blocksy/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/public_html/wp-content/themes/blocksy/index.php on line 16
+[13-Aug-2021 14:53:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/funbahas/public_html/wp-content/themes/blocksy/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/public_html/wp-content/themes/blocksy/index.php on line 16
+[17-Aug-2021 03:28:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/funbahas/public_html/wp-content/themes/blocksy/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/public_html/wp-content/themes/blocksy/index.php on line 16
+[21-Aug-2021 15:59:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/funbahas/public_html/wp-content/themes/blocksy/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/public_html/wp-content/themes/blocksy/index.php on line 16
+[25-Aug-2021 10:22:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/funbahas/public_html/wp-content/themes/blocksy/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/public_html/wp-content/themes/blocksy/index.php on line 16
+[25-Aug-2021 12:57:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/funbahas/public_html/wp-content/themes/blocksy/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/public_html/wp-content/themes/blocksy/index.php on line 16
